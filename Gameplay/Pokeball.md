@@ -169,10 +169,10 @@ Elle fonctionne comme une amélioration directe de la Poké Ball, car elle a un 
 
 Elle a un taux de capture statique de 1,5×.
 
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| | ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | → | ![Super Ball](https://wiki.cobblemon.com/images/4/45/Great_Ball.png) |
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | → | ![Super Ball](https://wiki.cobblemon.com/images/4/45/Great_Ball.png) |
+| | ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | | | |
 
 ### Hyper Ball
 
@@ -184,10 +184,10 @@ Elle fonctionne comme une amélioration directe de la Super Ball, car elle a un 
 
 Elle a un taux de capture statique de 2×.
 
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| | ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | → | ![Hyper Ball](https://wiki.cobblemon.com/images/3/34/Ultra_Ball.png) |
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | → | ![Hyper Ball](https://wiki.cobblemon.com/images/3/34/Ultra_Ball.png) |
+| | ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | | | |
 
 ### Safari Ball
 
@@ -199,10 +199,10 @@ Comme la plupart des Poké Balls, son taux de capture peut changer radicalement 
 
 Elle a un taux de capture de 1,5× lorsqu'elle est utilisée sur un Pokémon en dehors du combat.
 
-| | ![Lingot de Cuivre](https://wiki.cobblemon.com/images/0/00/Copper_Ingot.png) | | | |
+| | ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | ![Apricorn Vert](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | ![Lingot de Cuivre](https://wiki.cobblemon.com/images/0/00/Copper_Ingot.png) | → | ![Safari Ball](https://wiki.cobblemon.com/images/4/46/Safari_Ball.png) |
-| | ![Lingot de Cuivre](https://wiki.cobblemon.com/images/0/00/Copper_Ingot.png) | | | |
+| ![Apricorn Vert](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | ![Lingot de Cuivre](https://wiki.cobblemon.com/images/0/00/Copper_Ingot.png) | ![Apricorn Vert](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | → | ![Safari Ball](https://wiki.cobblemon.com/images/4/46/Safari_Ball.png) |
+| | ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | | | |
 
 ### Speed Ball
 
@@ -214,10 +214,10 @@ Comme la plupart des Poké Balls, son taux de capture peut changer radicalement 
 
 Elle a un taux de capture de 4× lorsqu'elle est utilisée sur des Pokémon avec 100 ou plus de Vitesse de Base.
 
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| | ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | → | ![Speed Ball](https://wiki.cobblemon.com/images/f/f8/Fast_Ball.png) |
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | → | ![Speed Ball](https://wiki.cobblemon.com/images/f/f8/Fast_Ball.png) |
+| | ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | | | |
 
 ### Niveau Ball
 
@@ -229,10 +229,10 @@ Comme la plupart des Poké Balls, son taux de capture peut changer radicalement 
 
 Elle a un taux de capture allant de 1× à 4×. Ce taux augmente en fonction de la différence de niveau entre le Pokémon du joueur et la cible.
 
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| | ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | → | ![Niveau Ball](https://wiki.cobblemon.com/images/5/5b/Level_Ball.png) |
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Apricorn Rose](https://wiki.cobblemon.com/images/e/ea/Pink_Apricorn.png) | → | ![Niveau Ball](https://wiki.cobblemon.com/images/5/5b/Level_Ball.png) |
+| | ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | | | |
 
 ### Appât Ball
 
@@ -246,10 +246,10 @@ La Appât Ball a un taux de capture de 2× sur les Pokémon qui ont été attrap
 
 Avant la version 1.6, elle avait un taux de capture de 2× sur les Pokémon de type Eau.
 
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| | ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | → | ![Appât Ball](https://wiki.cobblemon.com/images/0/0a/Lure_Ball.png) |
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Apricorn Vert](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | → | ![Appât Ball](https://wiki.cobblemon.com/images/0/0a/Lure_Ball.png) |
+| | ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | | | |
 
 ### Masse Ball
 
@@ -261,10 +261,10 @@ Comme la plupart des Poké Balls, son taux de capture peut changer radicalement 
 
 Elle a un taux de capture allant de 1× à 4×. Ce taux augmente en fonction du poids de la cible.
 
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| | ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | → | ![Masse Ball](https://wiki.cobblemon.com/images/1/13/Heavy_Ball.png) |
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | → | ![Masse Ball](https://wiki.cobblemon.com/images/1/13/Heavy_Ball.png) |
+| | ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | | | |
 
 ### Love Ball
 
@@ -276,10 +276,10 @@ Comme la plupart des Poké Balls, son taux de capture peut changer radicalement 
 
 Elle a un taux de capture de 8× si la cible est du sexe opposé et de la même espèce qu'un des Pokémon du joueur. Sinon, elle a un taux de capture de 1×.
 
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| | ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | ![Apricorn Rose](https://wiki.cobblemon.com/images/e/ea/Pink_Apricorn.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | → | ![Love Ball](https://wiki.cobblemon.com/images/0/0d/Love_Ball.png) |
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| ![Apricorn Rose](https://wiki.cobblemon.com/images/e/ea/Pink_Apricorn.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Apricorn Rose](https://wiki.cobblemon.com/images/e/ea/Pink_Apricorn.png) | → | ![Love Ball](https://wiki.cobblemon.com/images/0/0d/Love_Ball.png) |
+| | ![Apricorn Rose](https://wiki.cobblemon.com/images/e/ea/Pink_Apricorn.png) | | | |
 
 ### Copain Ball
 
@@ -289,10 +289,10 @@ Contrairement aux Poké Balls de premier niveau, les Copain Balls nécessitent u
 
 Elle a un taux de capture de 1×. Les Pokémon attrapés dans une Copain Ball commenceront avec 150 points d'Amitié.
 
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| | ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | ![Apricorn Vert](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | → | ![Copain Ball](https://wiki.cobblemon.com/images/3/30/Friend_Ball.png) |
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| ![Apricorn Vert](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Apricorn Vert](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | → | ![Copain Ball](https://wiki.cobblemon.com/images/3/30/Friend_Ball.png) |
+| | ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | | | |
 
 ### Lune Ball
 
@@ -304,10 +304,10 @@ Comme la plupart des Poké Balls, son taux de capture peut changer radicalement 
 
 Elle a un taux de capture allant de 1× à 4×. Ce taux augmente en fonction de la proximité de la phase de la lune à la pleine lune, et n'est actif que la nuit.
 
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| | ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | → | ![Lune Ball](https://wiki.cobblemon.com/images/b/b0/Moon_Ball.png) |
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | → | ![Lune Ball](https://wiki.cobblemon.com/images/b/b0/Moon_Ball.png) |
+| | ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | | | |
 
 ### Compét Ball
 
@@ -319,10 +319,10 @@ Elle a un taux de capture statique de 1,5×.
 
 Son taux de capture et sa fonction sont susceptibles de changer dans les futures mises à jour.
 
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| | ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | → | ![Compét Ball](https://wiki.cobblemon.com/images/7/7d/Sport_Ball.png) |
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | → | ![Compét Ball](https://wiki.cobblemon.com/images/7/7d/Sport_Ball.png) |
+| | ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | | | |
 
 ### Parc Ball
 
@@ -336,10 +336,10 @@ Comme la plupart des Poké Balls, son taux de capture peut changer radicalement 
 
 Elle a un taux de capture de 2,5× lorsqu'elle est utilisée sur un Pokémon à l'intérieur d'un biome de Forêt ou de Plaine.
 
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| | ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | ![Apricorn Vert](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | → | ![Parc Ball](https://wiki.cobblemon.com/images/0/04/Park_Ball.png) |
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| ![Apricorn Vert](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Apricorn Vert](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | → | ![Parc Ball](https://wiki.cobblemon.com/images/0/04/Park_Ball.png) |
+| | ![Apricorn Vert](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | | | |
 
 ### Filet Ball
 
@@ -351,10 +351,10 @@ Comme la plupart des Poké Balls, son taux de capture peut changer radicalement 
 
 Elle a un taux de capture de 3× lorsqu'elle est utilisée sur des Pokémon de type Insecte ou Eau.
 
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| | ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png)| | | |
 |---|---|---|---|---|
-| ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | → | ![Filet Ball](https://wiki.cobblemon.com/images/b/bb/Net_Ball.png) |
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png)  | ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | → | ![Filet Ball](https://wiki.cobblemon.com/images/b/bb/Net_Ball.png) |
+| | ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | | | |
 
 ### Scuba Ball
 
@@ -368,10 +368,10 @@ Elle a un taux de capture de 3,5× lorsqu'elle est utilisée sur des Pokémon su
 
 Contrairement à toutes les autres Poké Balls, la Scuba Ball n'est pas affectée par la traînée sous l'eau. Cela signifie qu'elle se déplace sous l'eau de la même manière qu'elle se déplace au-dessus de l'eau.
 
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| | ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | → | ![Scuba Ball](https://wiki.cobblemon.com/images/1/10/Dive_Ball.png) |
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) |![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | → | ![Scuba Ball](https://wiki.cobblemon.com/images/1/10/Dive_Ball.png) |
+| | ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | | | |
 
 ### Faiblo Ball
 
@@ -385,10 +385,10 @@ Elle a un taux de capture de 1× à 4×, augmentant plus le niveau de la cible e
 
 Si le niveau du Pokémon cible est inférieur à 30, un modificateur égal à 41 moins le niveau du Pokémon cible, divisé par 10 est donné.
 
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| | ![Apricorn Vert](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Vert](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | → | ![Faiblo Ball](https://wiki.cobblemon.com/images/a/a6/Nest_Ball.png) |
-| | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+| ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | ![Lingot de Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | → | ![Faiblo Ball](https://wiki.cobblemon.com/images/a/a6/Nest_Ball.png) |
+| | ![Apricorn Vert](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | | | |
 
 ### Bis Ball
 
@@ -398,10 +398,10 @@ Contrairement aux Poké Balls de premier et deuxième niveau, les Bis Balls néc
 
 La Bis Ball a un taux de capture de 3,5× si le Pokémon a déjà été enregistré comme attrapé dans le [Pokédex](http://wiki.cobblemon.com/index.php/Pok%C3%A9dex "Pokédex") du joueur. Avant la version 1.6, elle avait un taux de capture statique de 1×.
 
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| | ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | → | ![Bis Ball](https://wiki.cobblemon.com/images/7/75/Repeat_Ball.png) |
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | → | ![Bis Ball](https://wiki.cobblemon.com/images/7/75/Repeat_Ball.png) |
+| | ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | | | |
 
 ### Chrono Ball
 
@@ -413,10 +413,10 @@ Comme la plupart des Poké Balls, son taux de capture peut changer radicalement 
 
 Elle accorde un taux de capture cumulatif d'environ 0,3× par tour passé en combat, jusqu'à un taux de capture maximum de 4×.
 
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| | ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | → | ![Chrono Ball](https://wiki.cobblemon.com/images/4/46/Timer_Ball.png) |
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | → | ![Chrono Ball](https://wiki.cobblemon.com/images/4/46/Timer_Ball.png) |
+| | ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | | | |
 
 ### Luxe Ball
 
@@ -426,10 +426,10 @@ Contrairement aux Poké Balls de premier et deuxième niveau, les Luxe Balls né
 
 Elle a un taux de capture statique de 1×. Les Pokémon attrapés dans une Luxe Ball gagneront des points d'Amitié deux fois plus vite.
 
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| | ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | → | ![Luxe Ball](https://wiki.cobblemon.com/images/8/8d/Luxury_Ball.png) |
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | → | ![Luxe Ball](https://wiki.cobblemon.com/images/8/8d/Luxury_Ball.png) |
+| | ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | | | |
 
 ### Sombre Ball
 
@@ -443,10 +443,10 @@ Elle a un taux de capture de 3,5× si la cible est dans un niveau de lumière 0 
 
 Avant la version 1.6, elle avait un taux de capture de 3× si la cible était dans un niveau de lumière 0 et 1,5× si la cible était dans un niveau de lumière 1-7.
 
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| | ![Apricorn Vert](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Vert](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | → | ![Sombre Ball](https://wiki.cobblemon.com/images/5/50/Dusk_Ball.png) |
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | → | ![Sombre Ball](https://wiki.cobblemon.com/images/5/50/Dusk_Ball.png) |
+| | ![Apricorn Vert](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | | | |
 
 ### Soin Ball
 
@@ -456,10 +456,10 @@ Contrairement aux Poké Balls de base, les Soin Balls nécessitent un motif spé
 
 Elle a un taux de capture statique de 1×. Les Pokémon attrapés dans une Soin Ball verront leurs PV, PP et conditions de statut entièrement restaurés lors de la capture.
 
-| | ![Lingot de Cuivre](https://wiki.cobblemon.com/images/0/00/Copper_Ingot.png) | | | |
+| | ![Apricorn Rose](https://wiki.cobblemon.com/images/e/ea/Pink_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Rose](https://wiki.cobblemon.com/images/e/ea/Pink_Apricorn.png) | ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | ![Lingot de Cuivre](https://wiki.cobblemon.com/images/0/00/Copper_Ingot.png) | → | ![Soin Ball](https://wiki.cobblemon.com/images/2/24/Heal_Ball.png) |
-| | ![Lingot de Cuivre](https://wiki.cobblemon.com/images/0/00/Copper_Ingot.png) | | | |
+| ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | ![Lingot de Cuivre](https://wiki.cobblemon.com/images/0/00/Copper_Ingot.png) | ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png)  | → | ![Soin Ball](https://wiki.cobblemon.com/images/2/24/Heal_Ball.png) |
+| | ![Apricorn Rose](https://wiki.cobblemon.com/images/e/ea/Pink_Apricorn.png) | | | |
 
 ### Rapide Ball
 
@@ -471,10 +471,10 @@ Comme la plupart des Poké Balls, son taux de capture peut changer radicalement 
 
 Elle a un taux de capture de 5× si elle est utilisée au premier tour d'un combat. Sinon, elle a un taux de capture de 1×.
 
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| | ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | → | ![Rapide Ball](https://wiki.cobblemon.com/images/b/be/Quick_Ball.png) |
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Apricorn Jaune](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | → | ![Rapide Ball](https://wiki.cobblemon.com/images/b/be/Quick_Ball.png) |
+| | ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | | | |
 
 ### Rêve Ball
 
@@ -484,10 +484,10 @@ Contrairement aux Poké Balls de premier et deuxième niveau, les Rêve Balls n�
 
 Elle a un taux de capture de 1×. Les Pokémon attrapés dans une Rêve Ball ont une chance de 50% d'avoir une capacité cachée.
 
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| | ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Rouge](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | → | ![Rêve Ball](https://wiki.cobblemon.com/images/a/a1/Dream_Ball.png) |
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| ![Apricorn Rose](https://wiki.cobblemon.com/images/e/ea/Pink_Apricorn.png) | ![Diamant](https://wiki.cobblemon.com/images/e/ea/Diamond.png) | ![Apricorn Rose](https://wiki.cobblemon.com/images/e/ea/Pink_Apricorn.png) | → | ![Rêve Ball](https://wiki.cobblemon.com/images/a/a1/Dream_Ball.png) |
+| |  ![Apricorn Bleu](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png)| | | |
 
 ### Ultra Ball
 
@@ -497,10 +497,10 @@ Contrairement aux Poké Balls de premier et deuxième niveau, les Ultra Balls n�
 
 Elle a un taux de capture de 5× si elle est utilisée sur un Pokémon Ultra-Chimère. Sinon, elle a un taux de capture de 0,1×.
 
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Éclat d'écho](https://wiki.cobblemon.com/images/a/ab/Echo_Shard.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | |
 |---|---|---|---|---|
-| ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | → | ![Ultra Ball](https://wiki.cobblemon.com/images/f/f9/Beast_Ball.png) |
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| ![Éclat d'écho](https://wiki.cobblemon.com/images/a/ab/Echo_Shard.png) | ![Diamant](https://wiki.cobblemon.com/images/e/ea/Diamond.png) | ![Éclat d'écho](https://wiki.cobblemon.com/images/a/ab/Echo_Shard.png) | → | ![Ultra Ball](https://wiki.cobblemon.com/images/f/f9/Beast_Ball.png) |
+| ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Éclat d'écho](https://wiki.cobblemon.com/images/a/ab/Echo_Shard.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | |
 
 ### Master Ball
 
@@ -510,10 +510,10 @@ Contrairement aux Poké Balls de premier et deuxième niveau, les Master Balls n
 
 Elle a un taux de capture de 255×, ce qui signifie qu'elle attrapera toujours le Pokémon cible.
 
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| | ![Shulker](https://wiki.cobblemon.com/images/b/ba/Shulker_Shell.png) | | | |
 |---|---|---|---|---|
-| ![Apricorn Noir](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | ![Apricorn Blanc](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | → | ![Master Ball](https://wiki.cobblemon.com/images/e/ee/Master_Ball.png) |
-| | ![Lingot d'Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+| ![Lingot de netherite](https://wiki.cobblemon.com/images/f/fb/Netherite_Ingot.png) | ![Etoile du Nether](https://wiki.cobblemon.com/images/b/b3/Nether_Star.gif) | ![Lingot de netherite](https://wiki.cobblemon.com/images/f/fb/Netherite_Ingot.png) | → | ![Master Ball](https://wiki.cobblemon.com/images/e/ee/Master_Ball.png) |
+| | ![Shulker](https://wiki.cobblemon.com/images/b/ba/Shulker_Shell.png) | | | |
 
 ## Conclusion
 
