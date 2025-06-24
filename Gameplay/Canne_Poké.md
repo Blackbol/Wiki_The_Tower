@@ -88,7 +88,7 @@ Les appâts de pêche peuvent être attachés à l'hameçon du flotteur en faisa
 | Image | Nom | Effet |
 |-------|-----|-------|
 | ![Baie Douce](https://wiki.cobblemon.com/images/6/6c/Sweet_Berries.png) | Baie Douce | Réduit le Temps de Morsure de 12,5% |
-| ![Baie Lueureuse](https://wiki.cobblemon.com/images/f/f4/Glow_Berries.png) | Baie Lueureuse | Réduit le Temps de Morsure de 25% |
+| <img src="https://wiki.cobblemon.com/images/f/f4/Glow_Berries.png" width="17" height="17"/> | Baie Lueureuse | Réduit le Temps de Morsure de 25% |
 | ![Baie Oran](https://wiki.cobblemon.com/images/2/24/Oran_Berry.png) | Baie Oran | Réduit le Temps de Morsure de 33% |
 | ![Baie Sitrus](https://wiki.cobblemon.com/images/a/a5/Sitrus_Berry.png) | Baie Sitrus | Réduit le Temps de Morsure de 50% |
 
