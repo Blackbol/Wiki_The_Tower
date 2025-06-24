@@ -68,52 +68,52 @@ Les Noigrumes peuvent être cuits pour produire des teintures de différentes co
 
 #### Teinture Rouge
 
-| | | ![Red Apricorn](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | | |
-|---|---|---|---|---|
-| | | 🔥 | → | ![Red Dye](https://wiki.cobblemon.com/images/c/c1/Red_Dye.png) |
-| | | ![Coal](https://wiki.cobblemon.com/images/a/a7/Coal.png) | | |
+| ![Red Apricorn](https://wiki.cobblemon.com/images/d/da/Red_Apricorn.png) | | |
+|---|---|---|
+| 🔥 | → | ![Red Dye](https://wiki.cobblemon.com/images/c/c1/Red_Dye.png) |
+| ![Coal](https://wiki.cobblemon.com/images/a/a7/Coal.png) | | |
 
 #### Teinture Jaune
 
-| | | ![Yellow Apricorn](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | | |
-|---|---|---|---|---|
-| | | 🔥 | → | ![Yellow Dye](https://wiki.cobblemon.com/images/4/46/Yellow_Dye.png) |
-| | | ![Coal](https://wiki.cobblemon.com/images/a/a7/Coal.png) | | |
+| ![Yellow Apricorn](https://wiki.cobblemon.com/images/3/30/Yellow_Apricorn.png) | | |
+|---|---|---|
+| 🔥 | → | ![Yellow Dye](https://wiki.cobblemon.com/images/4/46/Yellow_Dye.png) |
+| ![Coal](https://wiki.cobblemon.com/images/a/a7/Coal.png) | | |
 
 #### Teinture Verte
 
-| | | ![Green Apricorn](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | | |
-|---|---|---|---|---|
-| | | 🔥 | → | ![Lime Dye](https://wiki.cobblemon.com/images/f/f1/Lime_Dye.png) |
-| | | ![Coal](https://wiki.cobblemon.com/images/a/a7/Coal.png) | | |
+| ![Green Apricorn](https://wiki.cobblemon.com/images/e/e4/Green_Apricorn.png) | | |
+|---|---|---|
+| 🔥 | → | ![Lime Dye](https://wiki.cobblemon.com/images/f/f1/Lime_Dye.png) |
+| ![Coal](https://wiki.cobblemon.com/images/a/a7/Coal.png) | | |
 
 #### Teinture Bleue
 
-| | | ![Blue Apricorn](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | | |
-|---|---|---|---|---|
-| | | 🔥 | → | ![Blue Dye](https://wiki.cobblemon.com/images/c/c9/Blue_Dye.png) |
-| | | ![Coal](https://wiki.cobblemon.com/images/a/a7/Coal.png) | | |
+| ![Blue Apricorn](https://wiki.cobblemon.com/images/7/7d/Blue_Apricorn.png) | | |
+|---|---|---|
+| 🔥 | → | ![Blue Dye](https://wiki.cobblemon.com/images/c/c9/Blue_Dye.png) |
+| ![Coal](https://wiki.cobblemon.com/images/a/a7/Coal.png) | | |
 
 #### Teinture Rose
 
-| | | ![Pink Apricorn](https://wiki.cobblemon.com/images/e/ea/Pink_Apricorn.png) | | |
-|---|---|---|---|---|
-| | | 🔥 | → | ![Pink Dye](https://wiki.cobblemon.com/images/6/6a/Pink_Dye.png) |
-| | | ![Coal](https://wiki.cobblemon.com/images/a/a7/Coal.png) | | |
+| ![Pink Apricorn](https://wiki.cobblemon.com/images/e/ea/Pink_Apricorn.png) | | |
+|---|---|---|
+| 🔥 | → | ![Pink Dye](https://wiki.cobblemon.com/images/6/6a/Pink_Dye.png) |
+| ![Coal](https://wiki.cobblemon.com/images/a/a7/Coal.png) | | |
 
 #### Teinture Noire
 
-| | | ![Black Apricorn](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | | |
-|---|---|---|---|---|
-| | | 🔥 | → | ![Black Dye](https://wiki.cobblemon.com/images/4/4c/Black_Dye.png) |
-| | | ![Coal](https://wiki.cobblemon.com/images/a/a7/Coal.png) | | |
+| ![Black Apricorn](https://wiki.cobblemon.com/images/1/15/Black_Apricorn.png) | | |
+|---|---|---|
+| 🔥 | → | ![Black Dye](https://wiki.cobblemon.com/images/4/4c/Black_Dye.png) |
+| ![Coal](https://wiki.cobblemon.com/images/a/a7/Coal.png) | | |
 
 #### Teinture Blanche
 
-| | | ![White Apricorn](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | | |
-|---|---|---|---|---|
-| | | 🔥 | → | ![White Dye](https://wiki.cobblemon.com/images/9/91/White_Dye.png) |
-| | | ![Coal](https://wiki.cobblemon.com/images/a/a7/Coal.png) | | |
+| ![White Apricorn](https://wiki.cobblemon.com/images/7/73/White_Apricorn.png) | | |
+|---|---|---|
+| 🔥 | → | ![White Dye](https://wiki.cobblemon.com/images/9/91/White_Dye.png) |
+| ![Coal](https://wiki.cobblemon.com/images/a/a7/Coal.png) | | |
 
 ## Types de Noigrumes
 
