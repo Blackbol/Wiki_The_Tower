@@ -233,6 +233,85 @@ Lorsqu'on utilise de la poudre d'os sur une racine, elle force la racine à se p
 | ![Laine Grises](https://wiki.cobblemon.com/images/1/1c/Gray_Wool.png) | ![membranes de Phantom](https://wiki.cobblemon.com/images/1/10/Phantom_Membrane.png) | ![Laine Grises](https://wiki.cobblemon.com/images/1/1c/Gray_Wool.png) | → | ![Cape Obscure](https://wiki.cobblemon.com/images/9/9a/Covert_Cloak.png) |
 | ![Laine Grises](https://wiki.cobblemon.com/images/1/1c/Gray_Wool.png) | ![Carrote dorée](https://wiki.cobblemon.com/images/7/72/Golden_Carrot.png) | ![Laine Grises](https://wiki.cobblemon.com/images/1/1c/Gray_Wool.png) | | |
 
+### Roche Humide ![Roche Humide](https://wiki.cobblemon.com/images/b/b0/Damp_Rock.png)
+
+**Description :** Prolonge la durée de la pluie quand elle est déclenchée par le porteur.
+
+#### Obtention
+
+La Roche Humide peuvent être trouvées dans des [Bloc suspect](https://minecraft.fandom.com/fr/wiki/Bloc_suspect)
+
+**Crafting**
+
+| ![Bloc de spéléothème](https://wiki.cobblemon.com/images/c/c8/Dripstone_Block.png) | ![Pierre Eau](https://wiki.cobblemon.com/images/e/e0/Water_Stone.png) | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Pierre dure](https://wiki.cobblemon.com/images/5/59/Hard_Stone.png) | ![Bloc de spéléothème](https://wiki.cobblemon.com/images/c/c8/Dripstone_Block.png) | | → | ![Roche Humide](https://wiki.cobblemon.com/images/b/b0/Damp_Rock.png) |
+| | | | | |
+
+### Écaille Océan ![Écaille Océan](https://wiki.cobblemon.com/images/6/61/Deep_Sea_Scale.png)
+
+**Description :** Augmente la Défense Spéciale de Coquiperl.<br>
+Fait évoluer Coquiperl en Rosabyss lorsqu'elle est tenue pendant un échange.
+
+#### Obtention
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0170 | Loupio | 2.5% | 1 |
+| 0171 | Lanturn | 5% | 1 |
+| 0368 | Rosabyss | 5% | 1 |
+| 0369 | Relicanth | 5% | 1 |
+| 0370 | Lovdisc | 2.5% | 1 |
+
+### Dent Océan ![Dent Océan](https://wiki.cobblemon.com/images/2/2d/Deep_Sea_Tooth.png)
+
+**Description :** Augmente l'Attaque Spéciale de Coquiperl.<br>
+Fait évoluer Coquiperl en Serpang lorsqu'elle est tenue pendant un échange
+
+#### Obtention
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0318 | Carvanha | 2.5% | 1 |
+| 0319 | Sharpedo | 5% | 1 |
+| 0367 | Serpang | 5% | 1 |
+| 0550 | Bargantua | 5% | 1 |
+
+### Nœud Destin ![Nœud Destin](https://wiki.cobblemon.com/images/8/8d/Destiny_Knot.png)
+
+**Description :** Si le porteur tombe amoureux, l'ennemi aussi.
+
+#### Obtention
+
+**Drop**
+
+| ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | ![Larme de ghast](https://wiki.cobblemon.com/images/8/8f/Ghast_Tear.png) | ![Fil](https://wiki.cobblemon.com/images/a/a0/String.png) | → | ![Nœud Destin](https://wiki.cobblemon.com/images/8/8d/Destiny_Knot.png) |
+| | ![Fil](https://wiki.cobblemon.com/images/a/a0/String.png) | ![Fil](https://wiki.cobblemon.com/images/a/a0/String.png) | | |
+
+### Bouton Fuite ![Bouton Fuite](https://wiki.cobblemon.com/images/6/69/Eject_Button.png)
+
+**Description :** Permet au porteur de quitter le combat s'il subit des dégâts d'une capacité offensive.<br>
+**Consommé après usage**
+
+#### Obtention
+
+**Crafting**
+
+| ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Bouton](https://wiki.cobblemon.com/images/a/ab/Any_Button.gif) | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Teinture jaune](https://wiki.cobblemon.com/images/4/46/Yellow_Dye.png) | ![Piston](https://wiki.cobblemon.com/images/6/62/Piston.png) | ![Teinture jaune](https://wiki.cobblemon.com/images/4/46/Yellow_Dye.png) | → | ![Bouton Fuite](https://wiki.cobblemon.com/images/6/69/Eject_Button.png) |
+| ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Poudre de Redstone](https://wiki.cobblemon.com/images/a/af/Redstone_Dust.png) | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | |
+
+### Sac Fuite ![Sac Fuite](https://wiki.cobblemon.com/images/7/7c/Eject_Pack.png)
+
+**Description :** Si le porteur subit une baisse de stats, il revient vers son Dresseur et change de place avec un coéquipier. <br>
+**Consommé après usage.**
 
 ### Lunettes Noires
 
@@ -261,58 +340,6 @@ Lorsqu'on utilise de la poudre d'os sur une racine, elle force la racine à se p
 | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Bâton de Charbon](lien) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
 
-### Roche Humide
-
-![Image de Roche Humide](lien_vers_image)
-
-**Description :** Prolonge la durée des conditions climatiques pluvieuses.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Roche Humide](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Écaille Abyssale
-
-![Image de Écaille Abyssale](lien_vers_image)
-
-**Description :** Augmente les stats spéciales d'un Pokémon de type Eau.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Écaille Abyssale](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Dent Abyssale
-
-![Image de Dent Abyssale](lien_vers_image)
-
-**Description :** Augmente les stats d'attaque d'un Pokémon de type Eau.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Dent Abyssale](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Nœud Destin
-
-![Image de Nœud Destin](lien_vers_image)
-
-**Description :** Transmet les altérations de statut à l'adversaire lors d'une attaque physique.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Nœud Destin](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
 ### Croc de Dragon
 
 ![Image de Croc de Dragon](lien_vers_image)
@@ -324,32 +351,6 @@ Lorsqu'on utilise de la poudre d'os sur une racine, elle force la racine à se p
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
 | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Croc de Dragon](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Bouton Fuite
-
-![Image de Bouton Fuite](lien_vers_image)
-
-**Description :** Permet au Pokémon de se retirer du combat s'il est touché par une attaque.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Bouton Fuite](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Sac Fuite
-
-![Image de Sac Fuite](lien_vers_image)
-
-**Description :** Permet au Pokémon de se retirer du combat après avoir subi des dégâts.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Sac Fuite](lien) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
 
 ### Pierre Stase
@@ -1369,8 +1370,8 @@ Pour plus d'informations sur les objets dans Cobblemon, vous pouvez consulter le
 - [Rune Purifiante](https://wiki.cobblemon.com/index.php/Cleanse_Tag)
 - [Cape Obscure](https://wiki.cobblemon.com/index.php/Covert_Cloak)
 - [Roche Humide](https://wiki.cobblemon.com/index.php/Damp_Rock)
-- [Écaille Abyssale](https://wiki.cobblemon.com/index.php/Deep_Sea_Scale)
-- [Dent Abyssale](https://wiki.cobblemon.com/index.php/Deep_Sea_Tooth)
+- [Écaille Océan](https://wiki.cobblemon.com/index.php/Deep_Sea_Scale)
+- [Dent Océan](https://wiki.cobblemon.com/index.php/Deep_Sea_Tooth)
 - [Nœud Destin](https://wiki.cobblemon.com/index.php/Destiny_Knot)
 - [Croc de Dragon](https://wiki.cobblemon.com/index.php/Dragon_Fang)
 - [Bouton Fuite](https://wiki.cobblemon.com/index.php/Eject_Button)
