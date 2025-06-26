@@ -1,0 +1,144 @@
+Salut le chat,
+J'ai besoin de toi pour me crée une page markdown avec le template markdown que je vais te donnée "Template_Markdown.md".
+Cette page sera sur les "Objet Tenu".
+Il faudra que les pages soit traduit en francais, Pour les nom propre ou les nom d'objet il faudra que tu utilise le fichiez "traduction_fr_en_objet.json" pour trouver la traduction.
+Il faudra donc que tu ouvre tout les pages, que tu marque le petit texte de descritions, que si il y a un craft present, il faudra que tu le retranscrive comme cela : 
+| ![Ressource nécessaire dans le craft](Lien_pointant_vers_une_images) | ![Ressource nécessaire dans le craft](Lien_pointant_vers_une_images) | ![Ressource nécessaire dans le craft](Lien_pointant_vers_une_images) | | |
+|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---|---|
+| ![Ressource nécessaire dans le craft](Lien_pointant_vers_une_images) | ![Ressource nécessaire dans le craft](Lien_pointant_vers_une_images) | ![Ressource nécessaire dans le craft](Lien_pointant_vers_une_images) | → | ![Resultat du craft](Lien_pointant_vers_une_images) |
+| ![Ressource nécessaire dans le craft](Lien_pointant_vers_une_images) | ![Ressource nécessaire dans le craft](Lien_pointant_vers_une_images) | ![Ressource nécessaire dans le craft](Lien_pointant_vers_une_images)| | |
+Tu pourra les regroupers dans plusieur categorie en fonction de paragraphe des lien.
+Il faudra aussi que tu crée un des sources et references
+## Sources et Références
+
+Pour plus d'informations sur les "objets" dans Cobblemon, vous pouvez consulter la page suivante sur le wiki Cobblemon :
+
+- **Titre de la page** : [lien](lien)
+
+↓ Objet tenu general
+https://wiki.cobblemon.com/index.php/Ability_Shield
+https://wiki.cobblemon.com/index.php/Absorb_Bulb
+https://wiki.cobblemon.com/index.php/Air_Balloon
+https://wiki.cobblemon.com/index.php/Assault_Vest
+https://wiki.cobblemon.com/index.php/Big_Root
+https://wiki.cobblemon.com/index.php/Binding_Band
+https://wiki.cobblemon.com/index.php/Black_Belt
+https://wiki.cobblemon.com/index.php/Black_Glasses
+https://wiki.cobblemon.com/index.php/Black_Sludge
+https://wiki.cobblemon.com/index.php/Blunder_Policy
+https://wiki.cobblemon.com/index.php/Bright_Powder
+https://wiki.cobblemon.com/index.php/Cell_Battery
+https://wiki.cobblemon.com/index.php/Charcoal_Stick
+https://wiki.cobblemon.com/index.php/Choice_Band
+https://wiki.cobblemon.com/index.php/Choice_Scarf
+https://wiki.cobblemon.com/index.php/Choice_Specs
+https://wiki.cobblemon.com/index.php/Cleanse_Tag
+https://wiki.cobblemon.com/index.php/Covert_Cloak
+https://wiki.cobblemon.com/index.php/Damp_Rock
+https://wiki.cobblemon.com/index.php/Deep_Sea_Scale
+https://wiki.cobblemon.com/index.php/Deep_Sea_Tooth
+https://wiki.cobblemon.com/index.php/Destiny_Knot
+https://wiki.cobblemon.com/index.php/Dragon_Fang
+https://wiki.cobblemon.com/index.php/Eject_Button
+https://wiki.cobblemon.com/index.php/Eject_Pack
+https://wiki.cobblemon.com/index.php/Everstone
+https://wiki.cobblemon.com/index.php/Eviolite
+https://wiki.cobblemon.com/index.php/Exp._Share
+https://wiki.cobblemon.com/index.php/Expert_Belt
+https://wiki.cobblemon.com/index.php/Fairy_Feather
+https://wiki.cobblemon.com/index.php/Flame_Orb
+https://wiki.cobblemon.com/index.php/Float_Stone
+https://wiki.cobblemon.com/index.php/Focus_Band
+https://wiki.cobblemon.com/index.php/Focus_Sash
+https://wiki.cobblemon.com/index.php/Hard_Stone
+https://wiki.cobblemon.com/index.php/Heat_Rock
+https://wiki.cobblemon.com/index.php/Heavy-Duty_Boots
+https://wiki.cobblemon.com/index.php/Icy_Rock
+https://wiki.cobblemon.com/index.php/Iron_Ball
+https://wiki.cobblemon.com/index.php/King%27s_Rock
+https://wiki.cobblemon.com/index.php/Leftovers
+https://wiki.cobblemon.com/index.php/Life_Orb
+https://wiki.cobblemon.com/index.php/Light_Ball
+https://wiki.cobblemon.com/index.php/Light_Clay
+https://wiki.cobblemon.com/index.php/Loaded_Dice
+https://wiki.cobblemon.com/index.php/Lucky_Egg
+https://wiki.cobblemon.com/index.php/Magnet
+https://wiki.cobblemon.com/index.php/Medicinal_Leek
+https://wiki.cobblemon.com/index.php/Mental_Herb
+https://wiki.cobblemon.com/index.php/Metal_Coat
+https://wiki.cobblemon.com/index.php/Metal_Powder
+https://wiki.cobblemon.com/index.php/Metronome
+https://wiki.cobblemon.com/index.php/Miracle_Seed
+https://wiki.cobblemon.com/index.php/Mirror_Herb
+https://wiki.cobblemon.com/index.php/Muscle_Band
+https://wiki.cobblemon.com/index.php/Mystic_Water
+https://wiki.cobblemon.com/index.php/Never-Melt_Ice
+https://wiki.cobblemon.com/index.php/Poison_Barb
+https://wiki.cobblemon.com/index.php/Power_Anklet
+https://wiki.cobblemon.com/index.php/Power_Band
+https://wiki.cobblemon.com/index.php/Power_Belt
+https://wiki.cobblemon.com/index.php/Power_Bracer
+https://wiki.cobblemon.com/index.php/Power_Herb
+https://wiki.cobblemon.com/index.php/Power_Lens
+https://wiki.cobblemon.com/index.php/Power_Weight
+https://wiki.cobblemon.com/index.php/Protective_Pads
+https://wiki.cobblemon.com/index.php/Punching_Glove
+https://wiki.cobblemon.com/index.php/Quick_Claw
+https://wiki.cobblemon.com/index.php/Quick_Powder
+https://wiki.cobblemon.com/index.php/Razor_Claw
+https://wiki.cobblemon.com/index.php/Razor_Fang
+https://wiki.cobblemon.com/index.php/Red_Card
+https://wiki.cobblemon.com/index.php/Ring_Target
+https://wiki.cobblemon.com/index.php/Rocky_Helmet
+https://wiki.cobblemon.com/index.php/Room_Service
+https://wiki.cobblemon.com/index.php/Safety_Goggles
+https://wiki.cobblemon.com/index.php/Scope_Lens
+https://wiki.cobblemon.com/index.php/Sharp_Beak
+https://wiki.cobblemon.com/index.php/Shed_Shell
+https://wiki.cobblemon.com/index.php/Shell_Bell
+https://wiki.cobblemon.com/index.php/Silk_Scarf
+https://wiki.cobblemon.com/index.php/Silver_Powder
+https://wiki.cobblemon.com/index.php/Smoke_Ball
+https://wiki.cobblemon.com/index.php/Smooth_Rock
+https://wiki.cobblemon.com/index.php/Soft_Sand
+https://wiki.cobblemon.com/index.php/Soothe_Bell
+https://wiki.cobblemon.com/index.php/Spell_Tag
+https://wiki.cobblemon.com/index.php/Sticky_Barb
+https://wiki.cobblemon.com/index.php/Terrain_Extender
+https://wiki.cobblemon.com/index.php/Throat_Spray
+https://wiki.cobblemon.com/index.php/Toxic_Orb
+https://wiki.cobblemon.com/index.php/Twisted_Spoon
+https://wiki.cobblemon.com/index.php/Utility_Umbrella
+https://wiki.cobblemon.com/index.php/Weakness_Policy
+https://wiki.cobblemon.com/index.php/White_Herb
+https://wiki.cobblemon.com/index.php/Wide_Lens
+https://wiki.cobblemon.com/index.php/Wise_Glasses
+https://wiki.cobblemon.com/index.php/Zoom_Lens
+
+↓ Objets améliorant un type
+https://wiki.cobblemon.com/index.php/Black_Belt
+https://wiki.cobblemon.com/index.php/Black_Glasses
+https://wiki.cobblemon.com/index.php/Charcoal_Stick
+https://wiki.cobblemon.com/index.php/Dragon_Fang
+https://wiki.cobblemon.com/index.php/Fairy_Feather
+https://wiki.cobblemon.com/index.php/Hard_Stone
+https://wiki.cobblemon.com/index.php/Magnet
+https://wiki.cobblemon.com/index.php/Metal_Coat
+https://wiki.cobblemon.com/index.php/Miracle_Seed
+https://wiki.cobblemon.com/index.php/Mystic_Water
+https://wiki.cobblemon.com/index.php/Never-Melt_Ice
+https://wiki.cobblemon.com/index.php/Poison_Barb
+https://wiki.cobblemon.com/index.php/Sharp_Beak
+https://wiki.cobblemon.com/index.php/Silk_Scarf
+https://wiki.cobblemon.com/index.php/Silver_Powder
+https://wiki.cobblemon.com/index.php/Soft_Sand
+https://wiki.cobblemon.com/index.php/Spell_Tag
+https://wiki.cobblemon.com/index.php/Twisted_Spoon
+
+↓ Objet boostant les IVs
+https://wiki.cobblemon.com/index.php/Power_Anklet
+https://wiki.cobblemon.com/index.php/Power_Band
+https://wiki.cobblemon.com/index.php/Power_Belt
+https://wiki.cobblemon.com/index.php/Power_Bracer
+https://wiki.cobblemon.com/index.php/Power_Lens
+https://wiki.cobblemon.com/index.php/Power_Weight
