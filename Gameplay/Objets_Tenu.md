@@ -632,6 +632,272 @@ Lorsqu'ils sont plantés sur de l'eau ou sur n'importe quel bloc gorgé d'eau, l
 
 Lorsqu'on utilise de la poudre d'os sur un soignons, son stade de croissance augmentera d'un niveau.
 
+### Herbe Mental ![Herbe Mental](https://wiki.cobblemon.com/images/d/d3/Mental_Herb.png)
+
+**Description :** Si cet objet est tenu par un Pokémon, il empêche ce Pokémon de subir les effets d'Attraction. il protège aussi des effets de Anti-Soin, Corps Maudit, Encore, Entrave, Provoc et de Tourmente.<br>
+**Consommée après usage**
+
+#### Obtention
+
+En utilisant un sac de Fertistantané à l'Étape 0, une culture d'Herbe Revitalisante à l'Étape 9 peut être mutée en l'une des 4 cultures suivantes : Herbe Mentale, Herbe Pouvoir, Herbe Blanche ou Herbe Copieuse.
+
+Casser une culture d'Herbe Mentale fait tomber 1 Herbe Mentale.
+
+### Poudre Métal ![Poudre Métal](https://wiki.cobblemon.com/images/b/be/Metal_Powder.png)
+
+**Description :** Augmente de 50% la Défense et Défense Spéciale d'un Métamorph non transformé.
+
+#### Obtention
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0132 | Métamorph | 5% | 1 |
+
+### Métronome ![Métronome](https://wiki.cobblemon.com/images/1/1c/Metronome.png)
+
+**Description :** Si cet objet est tenu par un Pokémon, celui-ci voit la puissance de ses capacités augmenter de 20% à chaque fois qu'il les réutilise successivement (et ce jusqu'à cinq augmentations maximum).
+
+#### Obtention
+
+**Crafting**
+
+| | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Barre de fer](https://wiki.cobblemon.com/images/f/f5/Iron_Bars.png) | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | → | ![Métronome](https://wiki.cobblemon.com/images/1/1c/Metronome.png) |
+| ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Block note](https://wiki.cobblemon.com/images/9/9b/Note_Block.png) | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | |
+
+### Feuille Copieuse ![Feuille Copieuse](https://wiki.cobblemon.com/images/0/0b/Mirror_Herb.png)
+
+**Description :** Lorsqu'un adversaire bénéficie d'une augmentation de stats, permet au porteur d'en bénéficier également.<br>
+**Consommée après usage**
+
+#### Obtention
+
+En utilisant un sac de Fertistantané à l'Étape 0, une culture d'Herbe Revitalisante à l'Étape 9 peut être mutée en l'une des 4 cultures suivantes : Herbe Mentale, Herbe Pouvoir, Herbe Blanche ou Herbe Copieuse.
+
+Casser une culture d'Herbe Copieuse fait tomber 1 Herbe Copieuse.
+
+### Bandeau Muscle ![Bandeau Muscle](https://wiki.cobblemon.com/images/c/c7/Muscle_Band.png)
+
+**Description :** Augmente la puissance des attaques physiques de 10%.
+
+#### Obtention
+
+**Crafting**
+
+| ![Laine Jaune](https://wiki.cobblemon.com/images/1/18/Yellow_Wool.png) | ![Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Laine Jaune](https://wiki.cobblemon.com/images/1/18/Yellow_Wool.png) | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Poudre de Redstone](https://wiki.cobblemon.com/images/a/af/Redstone_Dust.png) | | ![Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | → | ![Bandeau Muscle](https://wiki.cobblemon.com/images/c/c7/Muscle_Band.png) |
+| ![Laine Jaune](https://wiki.cobblemon.com/images/1/18/Yellow_Wool.png) | ![Poudre de Redstone](https://wiki.cobblemon.com/images/a/af/Redstone_Dust.png) | ![Laine Jaune](https://wiki.cobblemon.com/images/1/18/Yellow_Wool.png) | | |
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0056 | Férosinge | 2.5% | 1 |
+| 0057 | Colossinge | 5% | 1 |
+| 0066 | Machoc | 2.5% | 1 |
+| 0067 | Machopeur | 5% | 1 |
+| 0068 | Mackogneur | 10% | 1 |
+| 0532 | Charpenti | 2.5% | 1 |
+| 0533 | Ouvrifier | 5% | 1 |
+| 0534 | Bétochef | 10% | 1 |
+| 0979 | Courrousinge | 10% | 1 |
+
+### Herbe Pouvoir ![Herbe Pouvoir](  https://wiki.cobblemon.com/images/2/25/Power_Herb.png)
+
+**Description :** Permet d'utiliser immédiatement une capacité qui devrait se charger au premier tour
+
+#### Obtention
+
+En utilisant un sac de Fertistantané à l'Étape 0, une culture d'Herbe Revitalisante à l'Étape 9 peut être mutée en l'une des 4 cultures suivantes : Herbe Mentale, Herbe Pouvoir, Herbe Blanche ou Herbe Copieuse.
+
+Casser une culture d'Herbe Pouvoir fait tomber 1 Herbe Pouvoir.
+
+### Gant de Boxe ![Gant de Boxe](https://wiki.cobblemon.com/images/7/73/Punching_Glove.png)
+
+**Description :** Augmente la puissance (10%) des capacités coups de poing du porteur et lui évite d'entrer en contact direct avec sa cible.
+
+#### Obtention
+
+**Crafting**
+
+| | ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Peau de lapin](https://wiki.cobblemon.com/images/a/af/Rabbit_Hide.png) | ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | → | ![Gant de Boxe](https://wiki.cobblemon.com/images/7/73/Punching_Glove.png) |
+| ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | ![Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | | |
+
+### Pare-Effet ![Pare-Effet](https://wiki.cobblemon.com/images/f/fb/Protective_Pads.png)
+
+**Description :** Annule les effets subis par le porteur quand il utilise une attaque directe sur un autre Pokémon.
+
+#### Obtention
+
+**Crafting**
+
+| ![Laine Bleu](https://minecraft.wiki/images/Invicon_Blue_Wool.png?d753e) | ![Laine Bleu](https://minecraft.wiki/images/Invicon_Blue_Wool.png?d753e) |  | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Laine Bleu](https://minecraft.wiki/images/Invicon_Blue_Wool.png?d753e) | ![Peau de lapin](https://wiki.cobblemon.com/images/a/af/Rabbit_Hide.png) | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | → | ![Gant de Boxe](https://wiki.cobblemon.com/images/7/73/Punching_Glove.png) |
+| | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Laine Bleu](https://minecraft.wiki/images/Invicon_Blue_Wool.png?d753e) | | |
+
+### Vive Griffe ![Vive Griffe](https://wiki.cobblemon.com/images/1/18/Quick_Claw.png)
+
+**Description :** Si cet objet est tenu par le Pokémon du joueur, il peut arriver (dans 20 % des cas) qu'une capacité de même priorité soit activée en premier durant un tour, en ignorant les statistiques de vitesse respectives des deux Pokémon. Vive Griffe permet d'agir en premier même avec une Distorsion activée.
+
+#### Obtention
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0052 | Miaouss | 2.5% | 1 |
+| 0053 | Persian | 5% | 1 |
+| 0027 | Sabelette | 2.5% | 1 |
+| 0028 | Sablaireau | 5% | 1 |
+| 0215 | Farfuret | 2.5% | 1 |
+| 0403 | Lixy | 2.5% | 1 |
+| 0404 | Luxio | 5% | 1 |
+| 0405 | Luxray | 10% | 1 |
+| 0461 | Dimoret | 5% | 1 |
+
+### Poudre Vite ![Poudre Vite](https://wiki.cobblemon.com/images/e/ee/Quick_Powder.png)
+
+**Description :** Double la Vitesse d'un Métamorph non transformé.
+
+#### Obtention
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0132 | Métamorph | 100% | 0 - 1 |
+
+### Griffe Rasoir ![Griffe Rasoir](https://wiki.cobblemon.com/images/f/f6/Razor_Claw.png)
+
+**Description :** Augmente le taux de critiques du porteur.<br>
+Fait évoluer Farfuret en Farfurex ou Dimoret lorsqu'elle est tenue en montant d'un niveau pendant le jour ou la nuit.
+
+#### Obtention
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0052 | Miaouss (Forme de Galar) | 2.5% | 1 |
+| 0215 | Farfuret | 2.5% | 1 |
+| 0461 | Dimoret | 5% | 1 |
+| 0863 | Berserkatt | 5% | 1 |
+
+### Croc Rasoir ![Croc Rasoir](https://wiki.cobblemon.com/images/e/e7/Razor_Fang.png)
+
+**Description :** Peut apeurer (10%) l'ennemi lorsque le porteur lui inflige des dégâts.<br>
+Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pendant la nuit
+
+#### Obtention
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0023 | Abo | 2.5% | 1 |
+| 0024 | Arbok | 2.5% | 1 |
+| 0041 | Nosferapti | 2.5% | 1 |
+| 0042 | Nosferalto | 5% | 1 |
+| 0169 | Nostenfer | 10% | 1 |
+| 0207 | Scorplane | 2.5% | 1 |
+| 0303 | Mysdibule | 5% | 1 |
+| 0472 | Scorvol | 10% | 1 |
+
+### Carton Rouge ![Carton Rouge](https://wiki.cobblemon.com/images/9/93/Red_Card.png)
+
+**Description :** Éjecte un Pokémon du combat si ce dernier inflige des dégâts au porteur avec une capacité offensive.<br>
+**Consommé après usage**
+
+#### Obtention
+
+**Crafting**
+
+| | ![Papier](https://wiki.cobblemon.com/images/b/b2/Paper.png) | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Papier](https://wiki.cobblemon.com/images/b/b2/Paper.png) | ![Teinture rouge](https://wiki.cobblemon.com/images/c/c1/Red_Dye.png) | ![Papier](https://wiki.cobblemon.com/images/b/b2/Paper.png) | → | ![Carton Rouge](https://wiki.cobblemon.com/images/9/93/Red_Card.png) |
+| | ![Papier](https://wiki.cobblemon.com/images/b/b2/Paper.png) | | | |
+
+### Point de Mire ![Point de Mire](https://wiki.cobblemon.com/images/d/d4/Ring_Target.png)
+
+**Description :** Rend le porteur sensible aux capacités auxquelles il devrait être immunisé en raison de son type.
+
+#### Obtention
+
+**Crafting**
+
+| | | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Cible](https://wiki.cobblemon.com/images/0/09/Target.png) | ![Dalle de bois](https://wiki.cobblemon.com/images/d/d0/Any_Wooden_Slab.gif) | | → | ![Point de Mire](https://wiki.cobblemon.com/images/d/d4/Ring_Target.png) |
+| | | | | |
+
+### Casque Brut ![Casque Brut](  https://wiki.cobblemon.com/images/f/f7/Rocky_Helmet.png)
+
+**Description :** les Pokémon utilisant une attaque de contact sur le porteur subissent des dégâts égaux à 1/6 de leurs PV maximum.
+
+#### Obtention
+
+**Crafting**
+
+| ![Pierre dure](https://wiki.cobblemon.com/images/5/59/Hard_Stone.png) | ![Pierre dure](https://wiki.cobblemon.com/images/5/59/Hard_Stone.png) | ![Pierre dure](https://wiki.cobblemon.com/images/5/59/Hard_Stone.png) | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Colorant Vert](https://wiki.cobblemon.com/images/f/f1/Lime_Dye.png) | ![Casque en Or](  https://wiki.cobblemon.com/images/c/c6/Golden_Helmet.png) | ![Colorant Vert](https://wiki.cobblemon.com/images/f/f1/Lime_Dye.png) | → | ![Casque Brut](https://wiki.cobblemon.com/images/f/f7/Rocky_Helmet.png) |
+| ![Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | ![Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | |
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0142 | Ptéra | 5% | 1 |
+
+### Chariot Distordu ![Chariot Distordu](https://wiki.cobblemon.com/images/1/17/Room_Service.png)
+
+**Description :** Baisse la Vitesse du porteur lorsque la capacité Distorsion est active. <br>
+**Consommé après usage**
+
+#### Obtention
+
+**Crafting**
+
+| | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Laine Blanche](https://wiki.cobblemon.com/images/0/07/White_Wool.png) | ![Laine Blanche](https://wiki.cobblemon.com/images/0/07/White_Wool.png) | ![Laine Blanche](https://wiki.cobblemon.com/images/0/07/White_Wool.png) | → | ![Chariot Distordu](https://wiki.cobblemon.com/images/1/17/Room_Service.png) |
+| ![Laine Blanche](https://wiki.cobblemon.com/images/0/07/White_Wool.png) | ![minecart](https://wiki.cobblemon.com/images/1/12/Minecart.png) | ![Laine Blanche](https://wiki.cobblemon.com/images/0/07/White_Wool.png) | | |
+
+### Lunettes Filtre ![Lunettes Filtre](https://wiki.cobblemon.com/images/2/23/Safety_Goggles.png)
+
+**Description :** Protège le Pokémon des dégâts des tempêtes de sable et des effets des capacités qui libèrent de la poudre et des spores.
+
+#### Obtention
+
+**Crafting**
+
+| | ![Ecaille de tortue](https://wiki.cobblemon.com/images/5/5b/Scute.png) | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Ecaille de tortue](https://wiki.cobblemon.com/images/5/5b/Scute.png) | | ![Ecaille de tortue](https://wiki.cobblemon.com/images/5/5b/Scute.png) | → | ![Lunettes Filtre](https://wiki.cobblemon.com/images/2/23/Safety_Goggles.png) |
+| ![Verre teinter rouge](https://wiki.cobblemon.com/images/8/8e/Red_Stained_Glass.png) | ![Verre teinter rouge](https://wiki.cobblemon.com/images/8/8e/Red_Stained_Glass.png) | ![Verre teinter rouge](https://wiki.cobblemon.com/images/8/8e/Red_Stained_Glass.png) | | |
+
+### Lentilscope ![Lentilscope](https://wiki.cobblemon.com/images/f/fe/Scope_Lens.png)
+
+**Description :** Augmente le taux de critiques de 6,25% (une chance sur 16) à 12,5% (une chance sur 8) du porteur.
+
+#### Crafting
+
+| | ![Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Cristaux d'ametyst](https://wiki.cobblemon.com/images/a/a6/Amethyst_Shard.png) | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Cristaux d'ametyst](https://wiki.cobblemon.com/images/a/a6/Amethyst_Shard.png) | → | ![Lentilscope](https://wiki.cobblemon.com/images/f/fe/Scope_Lens.png) |
+| ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+
+### Carapace Mue ![Carapace Mue](https://wiki.cobblemon.com/images/8/89/Shed_Shell.png)
+
+**Description :** Permet au porteur de se retirer du combat à tous les coups.
+
 ### Lunettes Noires
 
 ![Image de Lunettes Noires](lien_vers_image)
@@ -764,19 +1030,6 @@ Lorsqu'on utilise de la poudre d'os sur un soignons, son stade de croissance aug
 | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Aimant](lien) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
 
-### Herbe Mental
-
-![Image de Herbe Mental](lien_vers_image)
-
-**Description :** Soigne les altérations de statut.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Herbe Mental](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
 ### Veste Métal
 
 ![Image de Veste Métal](lien_vers_image)
@@ -788,32 +1041,6 @@ Lorsqu'on utilise de la poudre d'os sur un soignons, son stade de croissance aug
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
 | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Veste Métal](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Poudre Métal
-
-![Image de Poudre Métal](lien_vers_image)
-
-**Description :** Augmente la défense des Pokémon de type Acier.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Poudre Métal](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Métronome
-
-![Image de Métronome](lien_vers_image)
-
-**Description :** Augmente la puissance des attaques utilisées successivement.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Métronome](lien) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
 
 ### Graine Miracle
@@ -829,31 +1056,6 @@ Lorsqu'on utilise de la poudre d'os sur un soignons, son stade de croissance aug
 | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Graine Miracle](lien) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
 
-### Feuille Copieuse
-
-![Image de Feuille Copieuse](lien_vers_image)
-
-**Description :** Copie la capacité de l'adversaire.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Feuille Copieuse](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Bandeau Muscle
-
-![Image de Bandeau Muscle](lien_vers_image)
-
-**Description :** Augmente la puissance des attaques physiques.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Bandeau Muscle](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
 
 ### Eau Mystique
 
@@ -982,155 +1184,6 @@ Lorsqu'on utilise de la poudre d'os sur un soignons, son stade de croissance aug
  | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Poids Pouvoir](lien) |
  | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
 
-### Pare-Effet
-
-![Image de Pare-Effet](lien_vers_image)
-
-**Description :** Protège le Pokémon des effets secondaires des attaques.
-
-#### Crafting
- | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
- |-----------------------|-----------------------|-----------------------|---|---|
- | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Pare-Effet](lien) |
- | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Gant de Boxe
-
-![Image de Gant de Boxe](lien_vers_image)
-
-**Description :** Augmente la puissance des attaques de type combat.
-
-#### Crafting
- | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
- |-----------------------|-----------------------|-----------------------|---|---|
- | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Gant de Boxe](lien) |
- | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Vive Griffe
-
-![Image de Vive Griffe](lien_vers_image)
-
-**Description :** Permet au Pokémon d'attaquer en premier occasionnellement.
-
-#### Crafting
- | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
- |-----------------------|-----------------------|-----------------------|---|---|
- | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Vive Griffe](lien) |
- | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Poudre Vite
-
-![Image de Poudre Vite](lien_vers_image)
-
-**Description :** Augmente la vitesse du Pokémon de type Normal.
-
-#### Crafting
- | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
- |-----------------------|-----------------------|-----------------------|---|---|
- | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Poudre Vite](lien) |
- | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Griffe Rasoir
-
-![Image de Griffe Rasoir](lien_vers_image)
-
-**Description :** Augmente la probabilité de coup critique.
-
-#### Crafting
- | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
- |-----------------------|-----------------------|-----------------------|---|---|
- | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Griffe Rasoir](lien) |
- | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Croc Rasoir
-
-![Image de Croc Rasoir](lien_vers_image)
-
-**Description :** Augmente la probabilité de flinch avec les attaques qui en sont capables.
-
-#### Crafting
- | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
- |-----------------------|-----------------------|-----------------------|---|---|
- | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Croc Rasoir](lien) |
- | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Carton Rouge
-
-![Image de Carton Rouge](lien_vers_image)
-
-**Description :** Force l'adversaire à changer de Pokémon après un coup.
-
-#### Crafting
- | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
- |-----------------------|-----------------------|-----------------------|---|---|
- | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Carton Rouge](lien) |
- | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Cible
-
-![Image de Cible](lien_vers_image)
-
-**Description :** Supprime les immunités de type de l'adversaire pour les attaques du porteur.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Cible](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Casque Rocheux
-
-![Image de Casque Rocheux](lien_vers_image)
-
-**Description :** Blesse l'attaquant s'il utilise une attaque physique.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Casque Rocheux](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Service Chambre
-
-![Image de Service Chambre](lien_vers_image)
-
-**Description :** Restaure les PV des alliés lors de l'utilisation de certaines capacités.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Service Chambre](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Lunettes de Sécurité
-
-![Image de Lunettes de Sécurité](lien_vers_image)
-
-**Description :** Protège le Pokémon des conditions météorologiques et des effets de poudre.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Lunettes de Sécurité](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Lunettes de Visée
-
-![Image de Lunettes de Visée](lien_vers_image)
-
-**Description :** Augmente la probabilité de coup critique.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Lunettes de Visée](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
 ### Bec Aiguisé
 
 ![Image de Bec Aiguisé](lien_vers_image)
@@ -1142,19 +1195,6 @@ Lorsqu'on utilise de la poudre d'os sur un soignons, son stade de croissance aug
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
 | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Bec Aiguisé](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Exuvie
-
-![Image de Exuvie](lien_vers_image)
-
-**Description :** Permet au Pokémon de se libérer de tout mouvement qui l'emprisonnerait.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Exuvie](lien) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
 
 ### Coque Sonnette
@@ -1479,13 +1519,13 @@ Pour plus d'informations sur les objets dans Cobblemon, vous pouvez consulter le
 - [Griffe Rasoir](https://wiki.cobblemon.com/index.php/Razor_Claw)
 - [Croc Rasoir](https://wiki.cobblemon.com/index.php/Razor_Fang)
 - [Carton Rouge](https://wiki.cobblemon.com/index.php/Red_Card)
-- [Cible](https://wiki.cobblemon.com/index.php/Ring_Target)
-- [Casque Rocheux](https://wiki.cobblemon.com/index.php/Rocky_Helmet)
-- [Service Chambre](https://wiki.cobblemon.com/index.php/Room_Service)
-- [Lunettes de Sécurité](https://wiki.cobblemon.com/index.php/Safety_Goggles)
-- [Lunettes de Visée](https://wiki.cobblemon.com/index.php/Scope_Lens)
+- [Point de Mire](https://wiki.cobblemon.com/index.php/Ring_Target)
+- [Casque Brut](https://wiki.cobblemon.com/index.php/Rocky_Helmet)
+- [Chariot Distordu](https://wiki.cobblemon.com/index.php/Room_Service)
+- [Lunettes Filtre](https://wiki.cobblemon.com/index.php/Safety_Goggles)
+- [Lentilscope](https://wiki.cobblemon.com/index.php/Scope_Lens)
 - [Bec Aiguisé](https://wiki.cobblemon.com/index.php/Sharp_Beak)
-- [Exuvie](https://wiki.cobblemon.com/index.php/Shed_Shell)
+- [Carapace Mue](https://wiki.cobblemon.com/index.php/Shed_Shell)
 - [Coque Sonnette](https://wiki.cobblemon.com/index.php/Shell_Bell)
 - [Écharpe Soie](https://wiki.cobblemon.com/index.php/Silk_Scarf)
 - [Poudre Argentée](https://wiki.cobblemon.com/index.php/Silver_Powder)
