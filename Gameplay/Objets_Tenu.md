@@ -15,7 +15,7 @@
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Diamant](https://wiki.cobblemon.com/images/e/ea/Diamond.png) | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ Les Bulbes peuvent être trouvées dans des [Bloc suspect](https://minecraft.fan
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | | ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -50,7 +50,7 @@ Les Bulbes peuvent être trouvées dans des [Bloc suspect](https://minecraft.fan
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Protecteur](https://wiki.cobblemon.com/images/c/cc/Protector.png) |  | ![Protecteur](https://wiki.cobblemon.com/images/c/cc/Protector.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -103,7 +103,7 @@ Lorsqu'on utilise de la poudre d'os sur une racine, elle force la racine à se p
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | | ![Fil](https://wiki.cobblemon.com/images/a/a0/String.png) | ![Laine Marron](https://wiki.cobblemon.com/images/d/db/Brown_Wool.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -134,7 +134,7 @@ Lorsqu'on utilise de la poudre d'os sur une racine, elle force la racine à se p
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | | ![Pied de lapin](https://wiki.cobblemon.com/images/c/ca/Rabbit%27s_Foot.png) | | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -161,7 +161,7 @@ Lorsqu'on utilise de la poudre d'os sur une racine, elle force la racine à se p
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -174,7 +174,7 @@ Lorsqu'on utilise de la poudre d'os sur une racine, elle force la racine à se p
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Laine Blanche](https://wiki.cobblemon.com/images/0/07/White_Wool.png) | ![Quartz du Nether](https://wiki.cobblemon.com/images/0/03/Nether_Quartz.png) | ![Laine Blanche](https://wiki.cobblemon.com/images/0/07/White_Wool.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -187,7 +187,7 @@ Lorsqu'on utilise de la poudre d'os sur une racine, elle force la racine à se p
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | | ![Laine bleu claire](https://wiki.cobblemon.com/images/b/b7/Light_Blue_Wool.png) | ![Diamant](https://wiki.cobblemon.com/images/e/ea/Diamond.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -200,7 +200,7 @@ Lorsqu'on utilise de la poudre d'os sur une racine, elle force la racine à se p
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Blaze Rod](https://wiki.cobblemon.com/images/3/3c/Blaze_Rod.png) | | ![Blaze Rod](https://wiki.cobblemon.com/images/3/3c/Blaze_Rod.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -213,7 +213,7 @@ Lorsqu'on utilise de la poudre d'os sur une racine, elle force la racine à se p
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | | ![Papier](https://wiki.cobblemon.com/images/b/b2/Paper.png) | ![Teinture blanche](https://wiki.cobblemon.com/images/9/91/White_Dye.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -226,7 +226,7 @@ Lorsqu'on utilise de la poudre d'os sur une racine, elle force la racine à se p
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | | ![Laine Grises](https://wiki.cobblemon.com/images/1/1c/Gray_Wool.png) | | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -241,7 +241,7 @@ Lorsqu'on utilise de la poudre d'os sur une racine, elle force la racine à se p
 
 La Roche Humide peuvent être trouvées dans des [Bloc suspect](https://minecraft.fandom.com/fr/wiki/Bloc_suspect)
 
-**Crafting**
+**Fabrication**
 
 | ![Bloc de spéléothème](https://wiki.cobblemon.com/images/c/c8/Dripstone_Block.png) | ![Pierre Eau](https://wiki.cobblemon.com/images/e/e0/Water_Stone.png) | | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -287,7 +287,7 @@ Fait évoluer Coquiperl en Serpang lorsqu'elle est tenue pendant un échange
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -301,7 +301,7 @@ Fait évoluer Coquiperl en Serpang lorsqu'elle est tenue pendant un échange
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Bouton](https://wiki.cobblemon.com/images/a/ab/Any_Button.gif) | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -336,7 +336,7 @@ La Pierre Stase peuvent être trouvées dans des [Bloc suspect](https://minecraf
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | | ![Cristaux d'ametyst](https://wiki.cobblemon.com/images/a/a6/Amethyst_Shard.png) | | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -349,11 +349,11 @@ La Pierre Stase peuvent être trouvées dans des [Bloc suspect](https://minecraf
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Poudre de blaise](https://wiki.cobblemon.com/images/2/27/Blaze_Powder.png) | | | | |
 |-----------------------|-----------------------|-----------------------|---|---|
-| ![Laine Noir](https://wiki.cobblemon.com/images/0/05/Black_Wool.png)| ![Ceinture Noir](https://wiki.cobblemon.com/images/f/f4/Black_Belt.png) | ![Laine Noir](https://wiki.cobblemon.com/images/0/05/Black_Wool.png) | → | ![Ceinture Pro](https://wiki.cobblemon.com/images/c/c7/Expert_Belt.png) |
+| ![Laine Noir](https://wiki.cobblemon.com/images/0/05/Black_Wool.png) | ![Ceinture Noir](https://wiki.cobblemon.com/images/f/f4/Black_Belt.png) | ![Laine Noir](https://wiki.cobblemon.com/images/0/05/Black_Wool.png) | → | ![Ceinture Pro](https://wiki.cobblemon.com/images/c/c7/Expert_Belt.png) |
 | | | ![Poudre de blaise](https://wiki.cobblemon.com/images/2/27/Blaze_Powder.png) | | |
 
 ### Multi Exp ![Multi Exp](https://wiki.cobblemon.com/images/f/f5/Exp._Share.png)
@@ -364,7 +364,7 @@ Les Pokémon qui ne participent pas reçoivent 50 % de l'expérience et la total
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Cristaux d'ametyst](https://wiki.cobblemon.com/images/a/a6/Amethyst_Shard.png) | ![Lingot D'or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Cristaux d'ametyst](https://wiki.cobblemon.com/images/a/a6/Amethyst_Shard.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -377,7 +377,7 @@ Les Pokémon qui ne participent pas reçoivent 50 % de l'expérience et la total
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Poudre de blaise](https://wiki.cobblemon.com/images/2/27/Blaze_Powder.png) | ![Verre teinté](https://wiki.cobblemon.com/images/e/e0/Tinted_Glass.png) | ![Pierre Feu](https://wiki.cobblemon.com/images/6/63/Fire_Stone.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -394,7 +394,7 @@ Les Pokémon qui ne participent pas reçoivent 50 % de l'expérience et la total
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | ![Cuivre](https://wiki.cobblemon.com/images/0/00/Copper_Ingot.png) | ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -416,7 +416,7 @@ Les Pokémon qui ne participent pas reçoivent 50 % de l'expérience et la total
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Poudre de blaise](https://wiki.cobblemon.com/images/2/27/Blaze_Powder.png) | | | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -431,7 +431,7 @@ Les Pokémon qui ne participent pas reçoivent 50 % de l'expérience et la total
 
 La Roche Chaude peuvent être trouvées dans des [Bloc suspect](https://minecraft.fandom.com/fr/wiki/Bloc_suspect)
 
-**Crafting**
+**Fabrication**
 
 | ![Bloc de spéléothème](https://wiki.cobblemon.com/images/c/c8/Dripstone_Block.png) | ![Pierre Feu](https://wiki.cobblemon.com/images/6/63/Fire_Stone.png) | | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -444,7 +444,7 @@ La Roche Chaude peuvent être trouvées dans des [Bloc suspect](https://minecraf
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Obsidien](https://wiki.cobblemon.com/images/2/23/Obsidian.png) | | ![Obsidien](https://wiki.cobblemon.com/images/2/23/Obsidian.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -457,7 +457,9 @@ La Roche Chaude peuvent être trouvées dans des [Bloc suspect](https://minecraf
 
 #### Obtention
 
-**Crafting**
+La Roche Glace peuvent être trouvées dans des [Bloc suspect](https://minecraft.fandom.com/fr/wiki/Bloc_suspect)
+
+**Fabrication**
 
 | ![Bloc de spéléothème](https://wiki.cobblemon.com/images/c/c8/Dripstone_Block.png) | ![Pierre Glaces](https://wiki.cobblemon.com/images/d/de/Ice_Stone.png) | | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -482,7 +484,7 @@ Fait évoluer Têtarte en Tarpaud et Ramoloss en Roigada lorsqu'elle est tenue p
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | | ![Grès sculpté](https://wiki.cobblemon.com/images/7/71/Chiseled_Sandstone.png) | | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -528,7 +530,7 @@ En mangeant une pomme, vous avez 2,5 % de chances d’avoir un reste.
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Larme de ghast](https://wiki.cobblemon.com/images/8/8f/Ghast_Tear.png) | ![Verre teinté](https://wiki.cobblemon.com/images/e/e0/Tinted_Glass.png) | ![Pomme D'or](https://wiki.cobblemon.com/images/0/0e/Golden_Apple.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -554,7 +556,7 @@ En mangeant une pomme, vous avez 2,5 % de chances d’avoir un reste.
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Sac d'encre brillant](https://wiki.cobblemon.com/images/9/9c/Glow_Ink_Sac.png) | ![Argile](https://wiki.cobblemon.com/images/c/c3/Clay_Ball.png) | ![Sac d'encre brillant](https://wiki.cobblemon.com/images/9/9c/Glow_Ink_Sac.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -582,7 +584,7 @@ En mangeant une pomme, vous avez 2,5 % de chances d’avoir un reste.
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Slime ball](https://wiki.cobblemon.com/images/1/16/Slimeball.png) | ![Obsidian](https://wiki.cobblemon.com/images/2/23/Obsidian.png) | ![Slime ball](https://wiki.cobblemon.com/images/1/16/Slimeball.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -661,7 +663,7 @@ Casser une culture d'Herbe Mentale fait tomber 1 Herbe Mentale.
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -685,7 +687,7 @@ Casser une culture d'Herbe Copieuse fait tomber 1 Herbe Copieuse.
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Laine Jaune](https://wiki.cobblemon.com/images/1/18/Yellow_Wool.png) | ![Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Laine Jaune](https://wiki.cobblemon.com/images/1/18/Yellow_Wool.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -722,7 +724,7 @@ Casser une culture d'Herbe Pouvoir fait tomber 1 Herbe Pouvoir.
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | | ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -735,7 +737,7 @@ Casser une culture d'Herbe Pouvoir fait tomber 1 Herbe Pouvoir.
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Laine Bleu](https://minecraft.wiki/images/Invicon_Blue_Wool.png?d753e) | ![Laine Bleu](https://minecraft.wiki/images/Invicon_Blue_Wool.png?d753e) |  | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -817,7 +819,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | | ![Papier](https://wiki.cobblemon.com/images/b/b2/Paper.png) | | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -830,7 +832,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | | | | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -843,7 +845,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | ![Pierre dure](https://wiki.cobblemon.com/images/5/59/Hard_Stone.png) | ![Pierre dure](https://wiki.cobblemon.com/images/5/59/Hard_Stone.png) | ![Pierre dure](https://wiki.cobblemon.com/images/5/59/Hard_Stone.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -863,7 +865,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -876,7 +878,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 #### Obtention
 
-**Crafting**
+**Fabrication**
 
 | | ![Ecaille de tortue](https://wiki.cobblemon.com/images/5/5b/Scute.png) | | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -887,7 +889,9 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente le taux de critiques de 6,25% (une chance sur 16) à 12,5% (une chance sur 8) du porteur.
 
-#### Crafting
+#### Obtention
+
+**Fabrication**
 
 | | ![Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Cristaux d'ametyst](https://wiki.cobblemon.com/images/a/a6/Amethyst_Shard.png) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -898,13 +902,151 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Permet au porteur de se retirer du combat à tous les coups.
 
+### Grelot Coque ![Grelot Coque](https://wiki.cobblemon.com/images/d/d2/Shell_Bell.png)
+
+**Description :** Restaure un peu les PV du porteur (1/8) chaque fois qu'il inflige des dégâts.
+
+#### Obtention
+
+**Fabrication**
+
+| ![Coquille de nautile](https://minecraft.wiki/images/Invicon_Nautilus_Shell.png?98183) | ![Cristaux de prismarine](https://wiki.cobblemon.com/images/a/ab/Prismarine_Crystals.png) | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| | | | → | ![Grelot Coque](https://wiki.cobblemon.com/images/d/d2/Shell_Bell.png) |
+| | | | | |
+
+### Boule Fumée
+
+![Image de Boule Fumée](lien_vers_image)
+
+**Description :** Permet au Pokémon de fuir sans problème des combats contre des Pokémons sauvages.
+
+### Roche Lisse ![Roche Lisse](https://wiki.cobblemon.com/images/1/1e/Smooth_Rock.png)
+
+**Description :** Prolonge la durée du climat tempête de sable de 5 tours a 8 tours quand il est déclenché par le porteur.
+
+#### Obtention
+
+La Roche Lisse peuvent être trouvées dans des [Bloc suspect](https://minecraft.fandom.com/fr/wiki/Bloc_suspect)
+
+**Fabrication**
+
+| ![Bloc de spéléothème](https://wiki.cobblemon.com/images/c/c8/Dripstone_Block.png) | ![Sable Doux](https://wiki.cobblemon.com/images/e/e9/Soft_Sand.png) | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Pierre dure](https://wiki.cobblemon.com/images/5/59/Hard_Stone.png) | ![Bloc de spéléothème](https://wiki.cobblemon.com/images/c/c8/Dripstone_Block.png) | → | ![Roche Lisse](https://wiki.cobblemon.com/images/1/1e/Smooth_Rock.png) |
+| | | | | |
+
+### Grelot Zen ![Grelot Zen](https://wiki.cobblemon.com/images/4/4c/Soothe_Bell.png)
+
+**Description :** Augmente de 50 % la quantité d'amitié gagnée par le porteur.
+
+#### Obtention
+
+**Fabrication**
+
+| | ![Nimporte quelle Laine](https://wiki.cobblemon.com/images/f/f2/Any_Wool.png) | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Pepite de fer](https://wiki.cobblemon.com/images/e/e7/Iron_Nugget.png) | ![Nimporte quelle Laine](https://wiki.cobblemon.com/images/f/f2/Any_Wool.png) | → | ![Grelot Zen](https://wiki.cobblemon.com/images/4/4c/Soothe_Bell.png) |
+| ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | | |
+
+### Piquants ![Piquants](https://wiki.cobblemon.com/images/8/82/Sticky_Barb.png)
+
+**Description :** Blesse le porteur à chaque tour (1/8) et peut s'accrocher à un Pokémon qui inflige une attaque directe au porteur.
+
+#### Obtention
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0597 | Grindur | 2.5% | 1 |
+| 0598 | Noacier | 5% | 1 |
+| 0331 | Cacnea | 2.5% | 1 |
+| 0332 | Cacturne | 5% | 1 |
+
+### Champ'Duit ![Champ'Duit](https://wiki.cobblemon.com/images/a/a9/Terrain_Extender.png)
+
+**Description :** Augmenter à 8 tours la durée des champs créés par une capacité ou par le talent du Pokémon porteur.
+
+#### Obtention
+
+**Fabrication**
+
+| ![Trap en fer](https://wiki.cobblemon.com/images/d/d0/Iron_Trapdoor.png) | ![Fil](https://wiki.cobblemon.com/images/a/a0/String.png) | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Poudre d'os](https://wiki.cobblemon.com/images/d/d6/Bone_Meal.png) |![Peau de lapin](https://wiki.cobblemon.com/images/a/af/Rabbit_Hide.png) | | → | ![Champ'Duit](https://wiki.cobblemon.com/images/a/a9/Terrain_Extender.png) |
+| ![Sceau](https://wiki.cobblemon.com/images/5/52/Bucket.png) | | | | |
+
+### Spray Gorge ![Spray Gorge](https://wiki.cobblemon.com/images/0/03/Throat_Spray.png)
+
+**Description :** Augmente l'Attaque Spéciale du porteur lorsqu'il utilise une capacité basée sur le son.<br>
+**Consommé après usage**
+
+#### Obtention
+
+**Alchimie**
+
+| | ![Baie Petaya](https://wiki.cobblemon.com/images/6/67/Petaya_Berry.png) | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| | ↑ | | → | ![Spray Gorge](https://wiki.cobblemon.com/images/0/03/Throat_Spray.png) |
+| ![Potion](https://wiki.cobblemon.com/images/7/7a/Potion.png) | ![Potion](https://wiki.cobblemon.com/images/7/7a/Potion.png) | ![Potion](https://wiki.cobblemon.com/images/7/7a/Potion.png) | | |
+
+### Orbe Toxique ![Orbe Toxique](https://wiki.cobblemon.com/images/8/85/Toxic_Orb.png)
+
+**Description :** Empoisonne gravement son porteur à la fin du tour. Le porteur ne subit pas de dégâts au tour où le statut est infligé.
+
+#### Obtention
+
+**Fabrication**
+
+| ![Oeil d'araignée fermenté](https://wiki.cobblemon.com/images/f/f9/Fermented_Spider_Eye.png) | ![Verre teinté](https://wiki.cobblemon.com/images/e/e0/Tinted_Glass.png) | ![Boue Noire](https://wiki.cobblemon.com/images/3/3d/Black_Sludge.png) | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Verre teinté](https://wiki.cobblemon.com/images/e/e0/Tinted_Glass.png) | ![Ender Pearl](https://wiki.cobblemon.com/images/5/5a/Ender_Pearl.png) | ![Verre teinté](https://wiki.cobblemon.com/images/e/e0/Tinted_Glass.png) | → | ![Orbe Toxique](https://wiki.cobblemon.com/images/8/85/Toxic_Orb.png) |
+| ![Boue Noire](https://wiki.cobblemon.com/images/3/3d/Black_Sludge.png) | ![Verre teinté](https://wiki.cobblemon.com/images/e/e0/Tinted_Glass.png) | ![Oeil d'araignée fermenté](https://wiki.cobblemon.com/images/f/f9/Fermented_Spider_Eye.png) | | |
+
+### Parapluie Solide ![Image de Parapluie Solide](https://wiki.cobblemon.com/images/2/2d/Utility_Umbrella.png)
+
+**Description :** Protège le porteur des effets de la pluie et des rayons du soleil.
+
+#### Obtention
+
+**Fabrication**
+
+| ![Laine Noir](https://wiki.cobblemon.com/images/0/05/Black_Wool.png) | ![Laine Noir](https://wiki.cobblemon.com/images/0/05/Black_Wool.png) | ![Laine Noir](https://wiki.cobblemon.com/images/0/05/Black_Wool.png) | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| | ![Barre de fer](https://wiki.cobblemon.com/images/f/f5/Iron_Bars.png) | | → | ![Image de Parapluie Solide](https://wiki.cobblemon.com/images/2/2d/Utility_Umbrella.png) |
+| | ![Blackstone](https://wiki.cobblemon.com/images/7/72/Blackstone.png) | | | |
+
+### Vulné-Assurance ![Vulné-Assurance](https://wiki.cobblemon.com/images/4/45/Weakness_Policy.png)
+
+**Description :** Augmente fortement l'attaque et l'attaque spéciale si le porteur est frappé par une attaque super efficace.
+
+#### Obtention
+
+**Fabrication**
+
+| | ![Oeil d'araignée fermenté](https://wiki.cobblemon.com/images/f/f9/Fermented_Spider_Eye.png) | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![teinture bleu](https://wiki.cobblemon.com/images/c/c9/Blue_Dye.png) | ![Sac d'encre](https://wiki.cobblemon.com/images/7/7d/Ink_Sac.png) | ![Plume](https://wiki.cobblemon.com/images/3/33/Feather.png) | → | ![Vulné-Assurance](https://wiki.cobblemon.com/images/4/45/Weakness_Policy.png) |
+| | ![Papier](https://wiki.cobblemon.com/images/b/b2/Paper.png) | | | |
+
+### Herbe Blanche ![Herbe Blanche](https://wiki.cobblemon.com/images/c/cc/White_Herb.png)
+
+**Description :** Soigne toutes les baisses de statistiques du porteur.
+
+#### Obtention
+
+En utilisant un sac de Fertistantané à l'Étape 0, une culture d'Herbe Revitalisante à l'Étape 9 peut être mutée en l'une des 4 cultures suivantes : Herbe Mentale, Herbe Pouvoir, Herbe Blanche ou Herbe Copieuse.
+
+Casser une culture d'Herbe Blanche fait tomber 1 Herbe Blanche.
+
 ### Lunettes Noires
 
 ![Image de Lunettes Noires](lien_vers_image)
 
 **Description :** Augmente la puissance des attaques de type Ténèbres.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -917,7 +1059,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la puissance des attaques de type Feu.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -930,7 +1072,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la puissance des attaques de type Dragon.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -943,7 +1085,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Renforce les attaques de type Fée.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -958,7 +1100,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la puissance des attaques de type Combat.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource A](lien) | ![Ressource B](lien) | ![Ressource C](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -971,7 +1113,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Renforce les attaques de type Ténèbres.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource X](lien) | ![Ressource Y](lien) | ![Ressource Z](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -986,7 +1128,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente les IVs de Vitesse.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource X](lien) | ![Ressource Y](lien) | ![Ressource Z](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -999,7 +1141,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente les IVs de Défense.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource X](lien) | ![Ressource Y](lien) | ![Ressource Z](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -1010,7 +1152,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la puissance des attaques de type Roche.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -1023,7 +1165,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la puissance des attaques de type Électrique.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -1036,7 +1178,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la puissance des attaques de type Acier.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -1049,7 +1191,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la puissance des attaques de type Plante.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -1063,7 +1205,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la puissance des attaques de type Eau.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -1076,7 +1218,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la puissance des attaques de type Glace.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -1089,7 +1231,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la puissance des attaques de type Poison.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -1102,7 +1244,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente les IVs de Vitesse.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -1115,7 +1257,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente les IVs de Défense.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -1128,7 +1270,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente les IVs d'Attaque.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -1141,7 +1283,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente les IVs d'Attaque Spéciale.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -1154,7 +1296,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Permet à une attaque de s'exécuter immédiatement mais ne peut être utilisé qu'une fois.
 
-#### Crafting
+#### Fabrication
    ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
  |-----------------------|-----------------------|-----------------------|---|---|
  | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Herbe Pouvoir](lien) |
@@ -1166,7 +1308,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la puissance des attaques spéciales.
 
-#### Crafting
+#### Fabrication
  | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
  |-----------------------|-----------------------|-----------------------|---|---|
  | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Lentille Pouvoir](lien) |
@@ -1178,7 +1320,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente les IVs de Vitesse.
 
-#### Crafting
+#### Fabrication
  | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
  |-----------------------|-----------------------|-----------------------|---|---|
  | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Poids Pouvoir](lien) |
@@ -1190,24 +1332,11 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la puissance des attaques de type Vol.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
 | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Bec Aiguisé](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Coque Sonnette
-
-![Image de Coque Sonnette](lien_vers_image)
-
-**Description :** Restaure une partie des PV lorsque le Pokémon inflige des dégâts.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Coque Sonnette](lien) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
 
 ### Écharpe Soie
@@ -1216,7 +1345,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la puissance des attaques de type Normal.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -1229,37 +1358,11 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la puissance des attaques de type Psy ou Insecte.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
 | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Poudre Argentée](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Boule de Fumée
-
-![Image de Boule de Fumée](lien_vers_image)
-
-**Description :** Permet au Pokémon de fuir sans problème des combats contre des adverses sauvages.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Boule de Fumée](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Roche Lisse
-
-![Image de Roche Lisse](lien_vers_image)
-
-**Description :** Prolonge la durée des conditions de sable.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Roche Lisse](lien) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
 
 ### Sable Mou
@@ -1268,24 +1371,11 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la puissance des attaques de type Sol.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
 | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Sable Mou](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Clochette Apaisante
-
-![Image de Clochette Apaisante](lien_vers_image)
-
-**Description :** Aide à calmer le Pokémon, augmentant la chance de rencontrers certains événements.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Clochette Apaisante](lien) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
 
 ### Étiquette Sort
@@ -1294,115 +1384,23 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la puissance des attaques de type Spectre.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
 | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Étiquette Sort](lien) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Barbe Glante
-
-![Image de Barbe Glante](lien_vers_image)
-
-**Description :** Blesse l'attaquant qui entre en contact physique avec le porteur.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Barbe Glante](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Extendeur Terrain
-
-![Image de Extendeur Terrain](lien_vers_image)
-
-**Description :** Prolonge la durée des effets de terrain.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Extendeur Terrain](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Spray Vocal
-
-![Image de Spray Vocal](lien_vers_image)
-
-**Description :** Augmente la puissance des attaques sonores.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Spray Vocal](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Orbe Toxique
-
-![Image de Orbe Toxique](lien_vers_image)
-
-**Description :** Empoisonne gravement le porteur au début du combat.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Orbe Toxique](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
 ### Cuillère Tordue
 
 ![Image de Cuillère Tordue](lien_vers_image)
 
 **Description :** Augmente la puissance des attaques de type Psy.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
 | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Cuillère Tordue](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Parapluie Utilitaire
-
-![Image de Parapluie Utilitaire](lien_vers_image)
-
-**Description :** Annule les effets des conditions météorologiques sur les attaques.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Parapluie Utilitaire](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Politique Faiblesse
-
-![Image de Politique Faiblesse](lien_vers_image)
-
-**Description :** Augmente fortement l'attaque et l'attaque spéciale si le porteur est frappé par une attaque super efficace.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Politique Faiblesse](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Herbe Blanche
-
-![Image de Herbe Blanche](lien_vers_image)
-
-**Description :** Soigne toutes les baisses de statistiques du porteur.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Herbe Blanche](lien) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
 
 ### Lentille Évasée
@@ -1411,7 +1409,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la précision des attaques du porteur.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -1424,7 +1422,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la puissance des attaques de type Psy.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -1437,7 +1435,7 @@ Fait évoluer Scorplane en Scorvol lorsqu'il est tenu en montant d'un niveau pen
 
 **Description :** Augmente la précision des attaques si le porteur attaque après l'adversaire.
 
-#### Crafting
+#### Fabrication
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -1526,21 +1524,21 @@ Pour plus d'informations sur les objets dans Cobblemon, vous pouvez consulter le
 - [Lentilscope](https://wiki.cobblemon.com/index.php/Scope_Lens)
 - [Bec Aiguisé](https://wiki.cobblemon.com/index.php/Sharp_Beak)
 - [Carapace Mue](https://wiki.cobblemon.com/index.php/Shed_Shell)
-- [Coque Sonnette](https://wiki.cobblemon.com/index.php/Shell_Bell)
+- [Grelot Coque](https://wiki.cobblemon.com/index.php/Shell_Bell)
 - [Écharpe Soie](https://wiki.cobblemon.com/index.php/Silk_Scarf)
 - [Poudre Argentée](https://wiki.cobblemon.com/index.php/Silver_Powder)
-- [Boule de Fumée](https://wiki.cobblemon.com/index.php/Smoke_Ball)
+- [Boule Fumée](https://wiki.cobblemon.com/index.php/Smoke_Ball)
 - [Roche Lisse](https://wiki.cobblemon.com/index.php/Smooth_Rock)
 - [Sable Mou](https://wiki.cobblemon.com/index.php/Soft_Sand)
-- [Clochette Apaisante](https://wiki.cobblemon.com/index.php/Soothe_Bell)
+- [Grelot Zen](https://wiki.cobblemon.com/index.php/Soothe_Bell)
 - [Étiquette Sort](https://wiki.cobblemon.com/index.php/Spell_Tag)
-- [Barbe Glante](https://wiki.cobblemon.com/index.php/Sticky_Barb)
-- [Extendeur Terrain](https://wiki.cobblemon.com/index.php/Terrain_Extender)
-- [Spray Vocal](https://wiki.cobblemon.com/index.php/Throat_Spray)
+- [Piquants](https://wiki.cobblemon.com/index.php/Sticky_Barb)
+- [Champ'Duit](https://wiki.cobblemon.com/index.php/Terrain_Extender)
+- [Spray Gorge](https://wiki.cobblemon.com/index.php/Throat_Spray)
 - [Orbe Toxique](https://wiki.cobblemon.com/index.php/Toxic_Orb)
 - [Cuillère Tordue](https://wiki.cobblemon.com/index.php/Twisted_Spoon)
-- [Parapluie Utilitaire](https://wiki.cobblemon.com/index.php/Utility_Umbrella)
-- [Politique Faiblesse](https://wiki.cobblemon.com/index.php/Weakness_Policy)
+- [Parapluie Solide](https://wiki.cobblemon.com/index.php/Utility_Umbrella)
+- [Vulné-Assurance](https://wiki.cobblemon.com/index.php/Weakness_Policy)
 - [Herbe Blanche](https://wiki.cobblemon.com/index.php/White_Herb)
 - [Lentille Évasée](https://wiki.cobblemon.com/index.php/Wide_Lens)
 - [Lunettes de Sage](https://wiki.cobblemon.com/index.php/Wise_Glasses)
