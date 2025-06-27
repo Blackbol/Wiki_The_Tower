@@ -235,7 +235,7 @@ Lorsqu'on utilise de la poudre d'os sur une racine, elle force la racine à se p
 
 ### Roche Humide ![Roche Humide](https://wiki.cobblemon.com/images/b/b0/Damp_Rock.png)
 
-**Description :** Prolonge la durée de la pluie quand elle est déclenchée par le porteur.
+**Description :** Prolonge la durée du climat pluvieux de 5 tours a 8 tours quand il est déclenché par le porteur.
 
 #### Obtention
 
@@ -287,7 +287,7 @@ Fait évoluer Coquiperl en Serpang lorsqu'elle est tenue pendant un échange
 
 #### Obtention
 
-**Drop**
+**Crafting**
 
 | ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | | | |
 |-----------------------|-----------------------|-----------------------|---|---|
@@ -313,6 +313,325 @@ Fait évoluer Coquiperl en Serpang lorsqu'elle est tenue pendant un échange
 **Description :** Si le porteur subit une baisse de stats, il revient vers son Dresseur et change de place avec un coéquipier. <br>
 **Consommé après usage.**
 
+### Pierre Stase ![Pierre Stase](https://wiki.cobblemon.com/images/8/86/Everstone.png)
+
+**Description :** Empêche le porteur d'évoluer.
+
+#### Obtention
+
+La Pierre Stase peuvent être trouvées dans des [Bloc suspect](https://minecraft.fandom.com/fr/wiki/Bloc_suspect)
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0074 | Racaillou | 2.5% | 1 |
+| 0075 | Gravalanch | 5% | 1 |
+| 0076 | Grolem | 10% | 1 |
+| 0526 | Gigalithe | 10% | 1 |
+
+### Évoluroc ![Évoluroc](https://wiki.cobblemon.com/images/e/e0/Eviolite.png)
+
+**Description :** Augmente la Défense et la Défense Spéciale d'un Pokémon pouvant évoluer.
+
+#### Obtention
+
+**Crafting**
+
+| | ![Cristaux d'ametyst](https://wiki.cobblemon.com/images/a/a6/Amethyst_Shard.png) | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Cristaux d'ametyst](https://wiki.cobblemon.com/images/a/a6/Amethyst_Shard.png) | ![Pierre Stase](https://wiki.cobblemon.com/images/8/86/Everstone.png) | ![Cristaux d'ametyst](https://wiki.cobblemon.com/images/a/a6/Amethyst_Shard.png) | → | ![Évoluroc](https://wiki.cobblemon.com/images/e/e0/Eviolite.png) |
+| | ![Cristaux d'ametyst](https://wiki.cobblemon.com/images/a/a6/Amethyst_Shard.png) | | | |
+
+### Ceinture Pro ![Ceinture Pro](https://wiki.cobblemon.com/images/c/c7/Expert_Belt.png)
+
+**Description :** Augmente de 20% la puissance des capacités super efficaces.
+
+#### Obtention
+
+**Crafting**
+
+| ![Poudre de blaise](https://wiki.cobblemon.com/images/2/27/Blaze_Powder.png) | | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Laine Noir](https://wiki.cobblemon.com/images/0/05/Black_Wool.png)| ![Ceinture Noir](https://wiki.cobblemon.com/images/f/f4/Black_Belt.png) | ![Laine Noir](https://wiki.cobblemon.com/images/0/05/Black_Wool.png) | → | ![Ceinture Pro](https://wiki.cobblemon.com/images/c/c7/Expert_Belt.png) |
+| | | ![Poudre de blaise](https://wiki.cobblemon.com/images/2/27/Blaze_Powder.png) | | |
+
+### Multi Exp ![Multi Exp](https://wiki.cobblemon.com/images/f/f5/Exp._Share.png)
+
+**Description :** Accorde de l'expérience au Pokémon qui le détient, même s'il ne participe pas au combat, tant qu'il n'est pas KO.
+
+Les Pokémon qui ne participent pas reçoivent 50 % de l'expérience et la totalité des EVs, tandis que les Pokémon participants obtiennent la totalité de l'expérience et des EVs. <br> Plusieurs Multi Exp peuvent être utilisés simultanément sans interférence.
+
+#### Obtention
+
+**Crafting**
+
+| ![Cristaux d'ametyst](https://wiki.cobblemon.com/images/a/a6/Amethyst_Shard.png) | ![Lingot D'or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Cristaux d'ametyst](https://wiki.cobblemon.com/images/a/a6/Amethyst_Shard.png) | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Lapis-lazuli](https://wiki.cobblemon.com/images/9/9f/Lapis_Lazuli.png) | ![Casque en Fer](  https://wiki.cobblemon.com/images/f/f7/Iron_Helmet.png) | ![Lapis-lazuli](https://wiki.cobblemon.com/images/9/9f/Lapis_Lazuli.png) | → | ![Multi Exp](https://wiki.cobblemon.com/images/f/f5/Exp._Share.png) |
+| ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | |
+
+### Orbe Flamme ![Orbe Flamme](https://wiki.cobblemon.com/images/0/0a/Flame_Orb.png)
+
+**Description :** Brûle son porteur à la fin du tour.
+
+#### Obtention
+
+**Crafting**
+
+| ![Poudre de blaise](https://wiki.cobblemon.com/images/2/27/Blaze_Powder.png) | ![Verre teinté](https://wiki.cobblemon.com/images/e/e0/Tinted_Glass.png) | ![Pierre Feu](https://wiki.cobblemon.com/images/6/63/Fire_Stone.png) | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Verre teinté](https://wiki.cobblemon.com/images/e/e0/Tinted_Glass.png) | ![Ender Pearl](https://wiki.cobblemon.com/images/5/5a/Ender_Pearl.png) | ![Verre teinté](https://wiki.cobblemon.com/images/e/e0/Tinted_Glass.png) | → | ![Orbe Flamme](https://wiki.cobblemon.com/images/0/0a/Flame_Orb.png) |
+| ![Pierre Feu](https://wiki.cobblemon.com/images/6/63/Fire_Stone.png) | ![Verre teinté](https://wiki.cobblemon.com/images/e/e0/Tinted_Glass.png) | ![Poudre de blaise](https://wiki.cobblemon.com/images/2/27/Blaze_Powder.png) | | |
+
+### Pierrallégée ![Pierrallégée](https://wiki.cobblemon.com/images/8/89/Float_Stone.png)
+
+**Description :** Le poids du porteur est divisé par deux.
+
+### Bandeau ![Bandeau](https://wiki.cobblemon.com/images/3/3e/Focus_Band.png)
+
+**Description :** 10 % de chances d'empêcher le Pokémon qui le détient de devenir KO, en lui laissant 1 PV.
+
+#### Obtention
+
+**Crafting**
+
+| ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | ![Cuivre](https://wiki.cobblemon.com/images/0/00/Copper_Ingot.png) | ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Poudre de blaise](https://wiki.cobblemon.com/images/2/27/Blaze_Powder.png) | | ![Cuivre](https://wiki.cobblemon.com/images/0/00/Copper_Ingot.png) | → | ![Bandeau](https://wiki.cobblemon.com/images/3/3e/Focus_Band.png) |
+| ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | ![Poudre de blaise](https://wiki.cobblemon.com/images/2/27/Blaze_Powder.png) | ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | | |
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0066 | Machoc | 2.5% | 1 |
+| 0067 | Machopeur | 5% | 1 |
+| 0068 | Mackogneur | 10% | 1 |
+
+### Ceinture Force ![Ceinture Force](https://wiki.cobblemon.com/images/4/49/Focus_Sash.png)
+
+**Description :** S'il a encore tous ses PV, le porteur pourra éviter d'être mis K.O. en un coup. <br>
+**Consommé après usage**
+
+#### Obtention
+
+**Crafting**
+
+| ![Poudre de blaise](https://wiki.cobblemon.com/images/2/27/Blaze_Powder.png) | | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | ![Cuivre](https://wiki.cobblemon.com/images/0/00/Copper_Ingot.png) | ![Laine rouge](https://wiki.cobblemon.com/images/7/70/Red_Wool.png) | → | ![Ceinture Force](https://wiki.cobblemon.com/images/4/49/Focus_Sash.png) |
+| | | ![Poudre de blaise](https://wiki.cobblemon.com/images/2/27/Blaze_Powder.png) | | |
+
+### Roche Chaude ![Roche Chaude](https://wiki.cobblemon.com/images/d/dc/Heat_Rock.png)
+
+**Description :** Prolonge la durée du climat ensoleillé de 5 tours a 8 tours quand il est déclenché par le porteur.
+
+#### Obtention
+
+La Roche Chaude peuvent être trouvées dans des [Bloc suspect](https://minecraft.fandom.com/fr/wiki/Bloc_suspect)
+
+**Crafting**
+
+| ![Bloc de spéléothème](https://wiki.cobblemon.com/images/c/c8/Dripstone_Block.png) | ![Pierre Feu](https://wiki.cobblemon.com/images/6/63/Fire_Stone.png) | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Pierre dure](https://wiki.cobblemon.com/images/5/59/Hard_Stone.png) | ![Bloc de spéléothème](https://wiki.cobblemon.com/images/c/c8/Dripstone_Block.png) |   → | ![Roche Chaude](https://wiki.cobblemon.com/images/d/dc/Heat_Rock.png) |
+| | | | | |
+
+### Grosses Bottes ![Grosses Bottes](https://wiki.cobblemon.com/images/b/b8/Heavy-Duty_Boots.png)
+
+**Description :** Le porteur ne subit plus les effets des pièges ou autres entraves posés sur le terrain.
+
+#### Obtention
+
+**Crafting**
+
+| ![Obsidien](https://wiki.cobblemon.com/images/2/23/Obsidian.png) | | ![Obsidien](https://wiki.cobblemon.com/images/2/23/Obsidian.png) | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Obsidien](https://wiki.cobblemon.com/images/2/23/Obsidian.png) | ![Botte en cuir](https://wiki.cobblemon.com/images/f/fd/Leather_Boots.png) | ![Obsidien](https://wiki.cobblemon.com/images/2/23/Obsidian.png) | → | ![Grosses Bottes](https://wiki.cobblemon.com/images/b/b8/Heavy-Duty_Boots.png) |
+| ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | |
+
+### Roche Glace ![Roche Glace](https://wiki.cobblemon.com/images/7/75/Icy_Rock.png)
+
+**Description :** Prolonge la durée du climat chutes de grêle de 5 tours a 8 tours quand il est déclenché par le porteur.
+
+#### Obtention
+
+**Crafting**
+
+| ![Bloc de spéléothème](https://wiki.cobblemon.com/images/c/c8/Dripstone_Block.png) | ![Pierre Glaces](https://wiki.cobblemon.com/images/d/de/Ice_Stone.png) | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Pierre dure](https://wiki.cobblemon.com/images/5/59/Hard_Stone.png) | ![Bloc de spéléothème](https://wiki.cobblemon.com/images/c/c8/Dripstone_Block.png) | → | ![Roche Glace](https://wiki.cobblemon.com/images/7/75/Icy_Rock.png) |
+| | | | | |
+
+### Balle Fer ![Balle Fer](https://wiki.cobblemon.com/images/9/98/Iron_Ball.png)
+
+**Description :** Divise la Vitesse par deux et rend les porteurs de type Vol, ainsi que ceux en lévitation, sensibles aux capacités de type Sol.
+
+#### Obtention
+
+**Tailleur de pierre**
+
+| ![Block de fer](https://minecraft.wiki/images/Invicon_Block_of_Iron.png?94f04) | → | ![Balle Fer](https://wiki.cobblemon.com/images/9/98/Iron_Ball.png) |
+-----------------------|---|---|
+
+### Roche Royale ![Roche Royale](https://wiki.cobblemon.com/images/f/ff/King%27s_Rock.png)
+
+**Description :** Donne aux attaques infligeant des dégâts du porteur une chance de 10 % de faire reculer la cible. Chaque frappe d'une attaque à frappes multiples a une chance indépendante de faire reculer la cible.<br>
+Fait évoluer Têtarte en Tarpaud et Ramoloss en Roigada lorsqu'elle est tenue pendant un échange.
+
+#### Obtention
+
+**Crafting**
+
+| | ![Grès sculpté](https://wiki.cobblemon.com/images/7/71/Chiseled_Sandstone.png) | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Or brute](https://wiki.cobblemon.com/images/c/c7/Raw_Gold.png) | ![Grès](https://wiki.cobblemon.com/images/d/d6/Sandstone.png) | ![Or brute](https://wiki.cobblemon.com/images/c/c7/Raw_Gold.png) | → | ![Roche Royale](https://wiki.cobblemon.com/images/f/ff/King%27s_Rock.png) |
+| ![Grès](https://wiki.cobblemon.com/images/d/d6/Sandstone.png) | ![Or brute](https://wiki.cobblemon.com/images/c/c7/Raw_Gold.png) | ![Grès](https://wiki.cobblemon.com/images/d/d6/Sandstone.png) | | |
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0098 | Krabby | 2.5% | 1 |
+| 0099 | Krabboss | 5% | 1 |
+| 0060 | Ptitard | 2.5% | 1 |
+| 0061 | Têtarte | 5% | 1 |
+| 0062 | Tartard | 10% | 1 |
+| 0079 | Ramoloss | 2.5% | 1 |
+| 0186 | Tarpaud | 10% | 1 |
+| 0199 | Roigada | 10% | 1 |
+
+### Restes ![Restes](https://wiki.cobblemon.com/images/7/7f/Leftovers.png)
+
+**Description :** Permet de restaurer graduellement (1/16) les PV du porteur durant le combat.
+
+#### Obtention
+
+**Manger**
+
+En mangeant une pomme, vous avez 2,5 % de chances d’avoir un reste.
+
+| ![Pomme](https://wiki.cobblemon.com/images/7/7d/Apple.png) | → | ![Restes](https://wiki.cobblemon.com/images/7/7f/Leftovers.png) |
+-----------------------|---|---|
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0143 | Ronflex | 5% | 1 |
+| 0446 | Goinfrex | 2.5% | 1 |
+
+### Orbe Vie ![Orbe Vie](https://wiki.cobblemon.com/images/a/a5/Life_Orb.png)
+
+**Description :** Augmente la puissance des capacités de 30%, mais coûte 10% des PV à chaque tour.
+
+#### Obtention
+
+**Crafting**
+
+| ![Larme de ghast](https://wiki.cobblemon.com/images/8/8f/Ghast_Tear.png) | ![Verre teinté](https://wiki.cobblemon.com/images/e/e0/Tinted_Glass.png) | ![Pomme D'or](https://wiki.cobblemon.com/images/0/0e/Golden_Apple.png) | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Verre teinté](https://wiki.cobblemon.com/images/e/e0/Tinted_Glass.png) | ![Ender Pearl](https://wiki.cobblemon.com/images/5/5a/Ender_Pearl.png) | ![Verre teinté](https://wiki.cobblemon.com/images/e/e0/Tinted_Glass.png) | → | ![Orbe Vie](https://wiki.cobblemon.com/images/a/a5/Life_Orb.png) |
+| ![Pomme D'or](https://wiki.cobblemon.com/images/0/0e/Golden_Apple.png) | ![Verre teinté](https://wiki.cobblemon.com/images/e/e0/Tinted_Glass.png) | ![Larme de ghast](https://wiki.cobblemon.com/images/8/8f/Ghast_Tear.png) | | |
+
+### Balle Lumière ![Balle Lumière](https://wiki.cobblemon.com/images/4/4a/Light_Ball.png)
+
+**Description :** Augmente l'Attaque et l'Attaque Spéciale de Pikachu
+
+#### Obtention
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0025 | Pikachu | 5% | 1 |
+| 0026 | Raichu | 10% | 1 |
+
+### Lumargile ![Lumargile](https://wiki.cobblemon.com/images/1/13/Light_Clay.png)
+
+**Description :** Prolonge la durée des capacités telles que Mur Lumière et Protection lancées par le porteur.
+
+#### Obtention
+
+**Crafting**
+
+| ![Sac d'encre brillant](https://wiki.cobblemon.com/images/9/9c/Glow_Ink_Sac.png) | ![Argile](https://wiki.cobblemon.com/images/c/c3/Clay_Ball.png) | ![Sac d'encre brillant](https://wiki.cobblemon.com/images/9/9c/Glow_Ink_Sac.png) | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Argile](https://wiki.cobblemon.com/images/c/c3/Clay_Ball.png) | ![Ender Perle](https://wiki.cobblemon.com/images/5/5a/Ender_Pearl.png) | ![Argile](https://wiki.cobblemon.com/images/c/c3/Clay_Ball.png) | → | ![Lumargile](https://wiki.cobblemon.com/images/1/13/Light_Clay.png) |
+| ![Sac d'encre brillant](https://wiki.cobblemon.com/images/9/9c/Glow_Ink_Sac.png) | ![Argile](https://wiki.cobblemon.com/images/c/c3/Clay_Ball.png) | ![Sac d'encre brillant](https://wiki.cobblemon.com/images/9/9c/Glow_Ink_Sac.png) | | |
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0343 | Balbuto | 2.5% | 1 |
+| 0344 | Kaorine | 5% | 1 |
+| 0439 | Mime Jr. | 2.5% | 1 |
+| 0561 | Cryptéro | 5% | 1 |
+| 0605 | Lewsor | 2.5% | 1 |
+| 0606 | Neitram | 5% | 1 |
+| 0622 | Gringolem | 2.5% | 1 |
+| 0623 | Golemastoc | 5% | 1 |
+| 0749 | Tiboudet | 2.5% | 1 |
+| 0750 | Bourrinos | 5% | 1 |
+
+### Dé Pipé ![Dé Pipé](https://wiki.cobblemon.com/images/0/0d/Loaded_Dice.png)
+
+**Description :** Permet d'asséner de nombreux coups lorsqu'une capacité pouvant frapper plusieurs fois est utilisée.
+
+#### Obtention
+
+**Crafting**
+
+| ![Slime ball](https://wiki.cobblemon.com/images/1/16/Slimeball.png) | ![Obsidian](https://wiki.cobblemon.com/images/2/23/Obsidian.png) | ![Slime ball](https://wiki.cobblemon.com/images/1/16/Slimeball.png) | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Obsidian](https://wiki.cobblemon.com/images/2/23/Obsidian.png) | ![Treffle](https://wiki.cobblemon.com/images/6/66/Clover_Sweet.png) | ![Obsidian](https://wiki.cobblemon.com/images/2/23/Obsidian.png) | → | ![Dé Pipé](https://wiki.cobblemon.com/images/0/0d/Loaded_Dice.png) |
+| ![Iron ball](https://wiki.cobblemon.com/images/9/98/Iron_Ball.png) | ![Obsidian](https://wiki.cobblemon.com/images/2/23/Obsidian.png) | ![Iron ball](https://wiki.cobblemon.com/images/9/98/Iron_Ball.png) | | |
+
+### Œuf Chance ![Œuf Chance](https://wiki.cobblemon.com/images/7/72/Lucky_Egg.png)
+
+**Description :** Augmente l'expérience gagnée de 50% lors des combats.
+
+#### Obtention
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0113 | Leveinard | 10% | 1 |
+| 0242 | Leuphorie | 25% | 1 |
+
+### Soignon ![Soignon](https://wiki.cobblemon.com/images/d/de/Medicinal_Leek.png)
+
+**Description :** Augmente beaucoup le taux de critiques de Canarticho et Palarticho.
+
+#### Obtention
+
+Casser un soignon complètement développé fait tomber 2 à 3 soignons, tandis qu'un soignon non complètement développé ne fera jamais tomber qu'un seul soignon. Utiliser un outil enchanté avec la fortune fera tomber plus de soignon d'un soignon complètement développé, jusqu'à un maximum de 5 soignon.
+
+Les soignons peuvent être minés instantanément avec n'importe quel outil ou sans outil.
+
+**Génération Naturelle**
+
+<img src="https://wiki.cobblemon.com/images/0/03/Wild_Medicinal_Leeks.png" width="370" height="200"/>
+
+Les soignons peuvent être trouvés en groupes de 4 environ, dispersés près des rives des biomes d'eau non salée. Cela inclut les rivières, les marais et tout biome modifié étiqueté comme Eau Douce.
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0083 | Canarticho | 100% | 1 |
+| 0083 | Canarticho (Forme de Galar) | 100% | 1 |
+
+
+**Agriculture**
+
+Lorsqu'ils sont plantés sur de l'eau ou sur n'importe quel bloc gorgé d'eau, les soignons passent par 4 étapes de croissance. Leur taux de croissance n'est pas affecté par la lumière ou d'autres facteurs environnementaux.
+
+Lorsqu'on utilise de la poudre d'os sur un soignons, son stade de croissance augmentera d'un niveau.
+
 ### Lunettes Noires
 
 ![Image de Lunettes Noires](lien_vers_image)
@@ -325,7 +644,6 @@ Fait évoluer Coquiperl en Serpang lorsqu'elle est tenue pendant un échange
 |-----------------------|-----------------------|-----------------------|---|---|
 | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Lunettes Noires](lien) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
 
 ### Bâton de Charbon
 
@@ -353,58 +671,6 @@ Fait évoluer Coquiperl en Serpang lorsqu'elle est tenue pendant un échange
 | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Croc de Dragon](lien) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
 
-### Pierre Stase
-
-![Image de Pierre Stase](lien_vers_image)
-
-**Description :** Empêche le Pokémon de évoluer.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Pierre Stase](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Évoluroc
-
-![Image de Évoluroc](lien_vers_image)
-
-**Description :** Augmente les défenses du Pokémon s'il n'a pas encore évolué.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Évoluroc](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Multi Exp
-
-![Image de Multi Exp](lien_vers_image)
-
-**Description :** Partage l'expérience de combat avec d'autres Pokémon de l'équipe.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Multi Exp](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Ceinture Pro
-
-![Image de Ceinture Pro](lien_vers_image)
-
-**Description :** Augmente la puissance des attaques super-efficaces.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Ceinture Pro](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
 ### Plume Enchantée
 
 ![Image de Plume Enchantée](lien_vers_image)
@@ -416,32 +682,6 @@ Fait évoluer Coquiperl en Serpang lorsqu'elle est tenue pendant un échange
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
 | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Plume Enchantée](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Orbe Flamme
-
-![Image de Orbe Flamme](lien_vers_image)
-
-**Description :** Une chance de brûler l'adversaire au contact.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Orbe Flamme](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Pierrallégée
-
-![Image de Pierrallégée](lien_vers_image)
-
-**Description :** Réduit le poids du Pokémon, augmentant sa vitesse.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Pierrallégée](lien) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
 
 ## Objets Améliorant un Type
@@ -500,35 +740,7 @@ Fait évoluer Coquiperl en Serpang lorsqu'elle est tenue pendant un échange
 | ![Ressource W](lien) | ![Ressource V](lien) | ![Ressource U](lien) | → | ![Bandeau Pouvoir](lien) |
 | ![Ressource T](lien) | ![Ressource S](lien) | ![Ressource R](lien) | | |
 
-### Bandeau
-
-![Image de Bandeau](lien_vers_image)
-
-**Description :** Augmente les chances de survivre à une attaque qui réduirait les PV à zéro.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Bandeau](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Ceinture Force
-
-![Image de Ceinture Force](lien_vers_image)
-
-**Description :** Assure que le Pokémon survivra à une attaque qui réduirait ses PV à zéro si à pleine santé.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Ceinture Force](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Pierre Dure
-
-![Image de Pierre Dure](lien_vers_image)
+### Pierre Dure ![Pierre dure](https://wiki.cobblemon.com/images/5/59/Hard_Stone.png)
 
 **Description :** Augmente la puissance des attaques de type Roche.
 
@@ -536,150 +748,7 @@ Fait évoluer Coquiperl en Serpang lorsqu'elle est tenue pendant un échange
 
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Pierre Dure](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Roche Chaude
-
-![Image de Roche Chaude](lien_vers_image)
-
-**Description :** Prolonge la durée des conditions climatiques ensoleillées.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Roche Chaude](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Grosses Bottes
-
-![Image de Grosses Bottes](lien_vers_image)
-
-**Description :** Protège le Pokémon des effets de terrain et des systèmes de pièges.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Grosses Bottes](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Roche Glace
-
-![Image de Roche Glace](lien_vers_image)
-
-**Description :** Prolonge la durée des conditions climatiques de grêle.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Roche Glace](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Balle Fer
-
-![Image de Balle Fer](lien_vers_image)
-
-**Description :** Réduit la vitesse du Pokémon mais augmente sa puissance.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Balle Fer](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Roche Royale
-
-![Image de Roche Royale](lien_vers_image)
-
-**Description :** Une chance de faire reculer l'adversaire après une attaque.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Roche Royale](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Restes
-
-![Image de Restes](lien_vers_image)
-
-**Description :** Restaure progressivement les PV du Pokémon.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Restes](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Orbe Vie
-
-![Image de Orbe Vie](lien_vers_image)
-
-**Description :** Augmente la puissance des attaques, mais coûte 10% des PV à chaque tour.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Orbe Vie](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Balle Lumière
-
-![Image de Balle Lumière](lien_vers_image)
-
-**Description :** Double l'attaque et la vitesse spéciale des Pikachu.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Balle Lumière](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Lumargile
-
-![Image de Lumargile](lien_vers_image)
-
-**Description :** Prolonge la durée des barrières de lumière.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Lumargile](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Dé Pipé
-
-![Image de Dé Pipé](lien_vers_image)
-
-**Description :** Augmente la fréquence des attaques multi-coup.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Dé Pipé](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Œuf Chance
-
-![Image de Œuf Chance](lien_vers_image)
-
-**Description :** Augmente l'expérience gagnée lors des combats.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Œuf Chance](lien) |
+| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Pierre dure](https://wiki.cobblemon.com/images/5/59/Hard_Stone.png) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
 
 ### Aimant
@@ -693,19 +762,6 @@ Fait évoluer Coquiperl en Serpang lorsqu'elle est tenue pendant un échange
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
 | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Aimant](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Poireau Médicinal
-
-![Image de Poireau Médicinal](lien_vers_image)
-
-**Description :** Restaure les PV du Pokémon.
-
-#### Crafting
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Poireau Médicinal](lien) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
 
 ### Herbe Mental
@@ -1398,7 +1454,7 @@ Pour plus d'informations sur les objets dans Cobblemon, vous pouvez consulter le
 - [Dé Pipé](https://wiki.cobblemon.com/index.php/Loaded_Dice)
 - [Œuf Chance](https://wiki.cobblemon.com/index.php/Lucky_Egg)
 - [Aimant](https://wiki.cobblemon.com/index.php/Magnet)
-- [Poireau Médicinal](https://wiki.cobblemon.com/index.php/Medicinal_Leek)
+- [Soignon](https://wiki.cobblemon.com/index.php/Medicinal_Leek)
 - [Herbe Mental](https://wiki.cobblemon.com/index.php/Mental_Herb)
 - [Veste Métal](https://wiki.cobblemon.com/index.php/Metal_Coat)
 - [Poudre Métal](https://wiki.cobblemon.com/index.php/Metal_Powder)
