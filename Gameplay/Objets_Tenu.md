@@ -1040,6 +1040,172 @@ En utilisant un sac de Fertistantané à l'Étape 0, une culture d'Herbe Revital
 
 Casser une culture d'Herbe Blanche fait tomber 1 Herbe Blanche.
 
+### Loupe ![Loupe](https://wiki.cobblemon.com/images/d/d2/Wide_Lens.png)
+
+**Description :** Augmente de 10% la Précision des capacités.
+
+#### Obtention
+
+**Fabrication**
+
+| ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Cristaux d'ametyst](https://wiki.cobblemon.com/images/a/a6/Amethyst_Shard.png) | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Cuivre](https://wiki.cobblemon.com/images/0/00/Copper_Ingot.png) | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | → | ![Loupe](https://wiki.cobblemon.com/images/d/d2/Wide_Lens.png) |
+| ![Cuivre](https://wiki.cobblemon.com/images/0/00/Copper_Ingot.png) | | | | |
+
+### Lunettes Sages ![Lunettes Sages](https://wiki.cobblemon.com/images/d/da/Wise_Glasses.png)
+
+**Description :** Augmente la puissance des attaques spéciales du porteur de 10 %.
+
+#### Obtention
+
+**Fabrication**
+
+| | | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | → | ![Lunettes Sages](https://wiki.cobblemon.com/images/d/da/Wise_Glasses.png) |
+| ![Block de verre](https://wiki.cobblemon.com/images/1/15/Glass.png) | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Block de verre](https://wiki.cobblemon.com/images/1/15/Glass.png) | | |
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0163 | Hoothoot | 2.5% | 1 |
+| 0164 | Noarfang | 5% | 1 |
+| 0177 | Natu | 2.5% | 1 |
+| 0178 | Xatu | 5% | 1 |
+
+### Lentille Zoom ![Lentille Zoom](https://wiki.cobblemon.com/images/7/78/Zoom_Lens.png)
+
+**Description :** Augmente la précision des attaques si le porteur attaque après l'adversaire.
+
+#### Fabrication
+
+| ![Cristaux d'ametyst](https://wiki.cobblemon.com/images/a/a6/Amethyst_Shard.png) | ![Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Or](https://wiki.cobblemon.com/images/2/22/Gold_Ingot.png) | ![Cuivre](https://wiki.cobblemon.com/images/0/00/Copper_Ingot.png) | ![Cuivre](https://wiki.cobblemon.com/images/0/00/Copper_Ingot.png) | → | ![Lentille Zoom](https://wiki.cobblemon.com/images/7/78/Zoom_Lens.png) |
+| | | ![Cuivre](https://wiki.cobblemon.com/images/0/00/Copper_Ingot.png) | | |
+
+## Objets Améliorant un Type
+
+### Ceinture Noire ![Ceinture Noire](https://wiki.cobblemon.com/images/f/f4/Black_Belt.png)
+
+**Description :** Augmente la puissance des capacités de type Combat de 20%.
+
+#### Obtention
+
+**Fabrication**
+
+| ![Laine Noir](https://wiki.cobblemon.com/images/0/05/Black_Wool.png) | | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Dried_Kelp](https://wiki.cobblemon.com/images/e/e7/Dried_Kelp.png) | ![Dried_Kelp](https://wiki.cobblemon.com/images/e/e7/Dried_Kelp.png) | ![Dried_Kelp](https://wiki.cobblemon.com/images/e/e7/Dried_Kelp.png) | → | ![Ceinture Noire](https://wiki.cobblemon.com/images/f/f4/Black_Belt.png) |
+| | | ![Laine Noir](https://wiki.cobblemon.com/images/0/05/Black_Wool.png) | | |
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0106 | Kicklee | 5% | 1 |
+| 0107 | Tygnon | 5% | 1 |
+| 0236 | Debugant | 2.5% | 1 |
+| 0237 | Kapoera | 5% | 1 |
+
+### Lunettes Noires ![Lunettes Noires](https://wiki.cobblemon.com/images/9/97/Black_Glasses.png)
+
+**Description :** Augmente la puissance des capacités de type Ténèbres de 20%.
+
+#### Obtention
+
+**Fabrication**
+
+| | | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | → | ![Lunettes Sages](https://wiki.cobblemon.com/images/d/da/Wise_Glasses.png) |
+| ![Verre teinté](https://wiki.cobblemon.com/images/e/e0/Tinted_Glass.png) | ![Fer](https://wiki.cobblemon.com/images/0/0a/Iron_Ingot.png) | ![Verre teinté](https://wiki.cobblemon.com/images/e/e0/Tinted_Glass.png) | | |
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0197 | Noctali | 10% | 1 |
+| 0551 | Mascaïman | 2.5% | 1 |
+| 0552 | Escroco | 5% | 1 |
+| 0553 | Crocorible | 10% | 1 |
+
+### Bâton de Charbon ![Bâton de Charbon](https://wiki.cobblemon.com/images/f/fd/Charcoal_Stick.png)
+
+**Description :** Augmente la puissance des capacités de type Feu de 20%.
+
+#### Obtention
+
+**Fabrication**
+
+| | ![Chabron de bois](https://wiki.cobblemon.com/images/4/4f/Charcoal.png) | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| | ![Pierre Feu](https://wiki.cobblemon.com/images/6/63/Fire_Stone.png) | | → | ![Bâton de Charbon](https://wiki.cobblemon.com/images/f/fd/Charcoal_Stick.png) |
+| | ![Chabron de bois](https://wiki.cobblemon.com/images/4/4f/Charcoal.png) | | | |
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0006 | Salamèche | 5% | 1 |
+| 0007 | Reptincel | 10% | 1 |
+| 0008 | Dracaufeu | 25% | 1 |
+| 0146 | Sulfura | 100% | 1 |
+| 0155 | Héricendre | 5% | 1 |
+| 0156 | Feurisson | 10% | 1 |
+| 0157 | Typhlosion | 25% | 1 |
+| 0255 | Poussifeu | 5% | 1 |
+| 0256 | Galifeu | 10% | 1 |
+| 0257 | Braségali | 25% | 1 |
+| 0324 | Chartor | 5% | 1 |
+| 0390 | Ouisticram | 5% | 1 |
+| 0391 | Chimpenfeu | 10% | 1 |
+| 0392 | Simiabraz | 25% | 1 |
+| 0498 | Gruikui | 5% | 1 |
+| 0499 | Grotichon | 10% | 1 |
+| 0500 | Roitiflam | 25% | 1 |
+| 0653 | Feunnec | 5% | 1 |
+| 0654 | Roussil | 10% | 1 |
+| 0655 | Goupelin | 25% | 1 |
+| 0725 | Flamiaou | 5% | 1 |
+| 0726 | Matoufeu | 10% | 1 |
+| 0727 | Félinferno | 25% | 1 |
+| 0813 | Flambino | 5% | 1 |
+| 0814 | Lapyro | 10% | 1 |
+| 0815 | Pyrobut | 25% | 1 |
+| 0909 | Chochodile | 5% | 1 |
+| 0910 | Crocogril | 10% | 1 |
+| 0911 | Flâmigator | 25% | 1 |
+| 0935 | Charbambin | 2.5% | 1 |
+| 0936 | Carmadura | 5% | 1 |
+| 0937 | Malvalame | 5% | 1 |
+
+### Croc de Dragon ![Croc de Dragon](https://wiki.cobblemon.com/images/4/4b/Dragon_Fang.png)
+
+**Description :** Augmente la puissance des capacités de type Dragon 20%.
+
+#### Obtention
+
+**Fabrication**
+
+| ![Croc Rasoir](https://wiki.cobblemon.com/images/e/e7/Razor_Fang.png) | ![Soufle du dragon](https://wiki.cobblemon.com/images/c/c6/Dragon%27s_Breath.png) | | | |
+|-----------------------|-----------------------|-----------------------|---|---|
+| | | | → | ![Croc de Dragon](https://wiki.cobblemon.com/images/4/4b/Dragon_Fang.png) |
+| | | | | |
+
+**Drop**
+
+| Numéro PokéDex | Nom Pokémon | Pourcentage de chance| Quantité |
+|---------|--------|------|----------|
+| 0147 | Minidraco | 2.5% | 1 |
+| 0148 | Draco | 5% | 1 |
+| 0149 | Dracolosse | 10% | 1 |
+| 0443 | Griknot | 2.5% | 1 |
+| 0444 | Carmache | 5% | 1 |
+| 0445 | Carchacrok | 10% | 1 |
+
 ### Lunettes Noires
 
 ![Image de Lunettes Noires](lien_vers_image)
@@ -1051,32 +1217,6 @@ Casser une culture d'Herbe Blanche fait tomber 1 Herbe Blanche.
 | ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
 |-----------------------|-----------------------|-----------------------|---|---|
 | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Lunettes Noires](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Bâton de Charbon
-
-![Image de Bâton de Charbon](lien_vers_image)
-
-**Description :** Augmente la puissance des attaques de type Feu.
-
-#### Fabrication
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Bâton de Charbon](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Croc de Dragon
-
-![Image de Croc de Dragon](lien_vers_image)
-
-**Description :** Augmente la puissance des attaques de type Dragon.
-
-#### Fabrication
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Croc de Dragon](lien) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
 
 ### Plume Enchantée
@@ -1091,34 +1231,6 @@ Casser une culture d'Herbe Blanche fait tomber 1 Herbe Blanche.
 |-----------------------|-----------------------|-----------------------|---|---|
 | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Plume Enchantée](lien) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-## Objets Améliorant un Type
-
-### Ceinture Noire
-
-![Image de Ceinture Noire](lien_vers_image)
-
-**Description :** Augmente la puissance des attaques de type Combat.
-
-#### Fabrication
-
-| ![Ressource A](lien) | ![Ressource B](lien) | ![Ressource C](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource D](lien) | ![Ressource E](lien) | ![Ressource F](lien) | → | ![Ceinture Noire](lien) |
-| ![Ressource G](lien) | ![Ressource H](lien) | ![Ressource I](lien) | | |
-
-### Lunettes Noires
-
-![Image de Lunettes Noires](lien_vers_image)
-
-**Description :** Renforce les attaques de type Ténèbres.
-
-#### Fabrication
-
-| ![Ressource X](lien) | ![Ressource Y](lien) | ![Ressource Z](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource V](lien) | ![Ressource W](lien) | ![Ressource U](lien) | → | ![Lunettes Noires](lien) |
-| ![Ressource T](lien) | ![Ressource S](lien) | ![Ressource R](lien) | | |
 
 ## Objets Boostant les IVs
 
@@ -1403,46 +1515,6 @@ Casser une culture d'Herbe Blanche fait tomber 1 Herbe Blanche.
 | ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Cuillère Tordue](lien) |
 | ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
 
-### Lentille Évasée
-
-![Image de Lentille Évasée](lien_vers_image)
-
-**Description :** Augmente la précision des attaques du porteur.
-
-#### Fabrication
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Lentille Évasée](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Lunettes de Sage
-
-![Image de Lunettes de Sage](lien_vers_image)
-
-**Description :** Augmente la puissance des attaques de type Psy.
-
-#### Fabrication
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Lunettes de Sage](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-### Lentille Zoom
-
-![Image de Lentille Zoom](lien_vers_image)
-
-**Description :** Augmente la précision des attaques si le porteur attaque après l'adversaire.
-
-#### Fabrication
-
-| ![Ressource 1](lien) | ![Ressource 2](lien) | ![Ressource 3](lien) | | |
-|-----------------------|-----------------------|-----------------------|---|---|
-| ![Ressource 4](lien) | ![Ressource 5](lien) | ![Ressource 6](lien) | → | ![Lentille Zoom](lien) |
-| ![Ressource 7](lien) | ![Ressource 8](lien) | ![Ressource 9](lien) | | |
-
-
 ## Sources et Références
 
 Pour plus d'informations sur les objets dans Cobblemon, vous pouvez consulter les pages suivantes sur le wiki Cobblemon :
@@ -1467,7 +1539,6 @@ Pour plus d'informations sur les objets dans Cobblemon, vous pouvez consulter le
 - [Écaille Océan](https://wiki.cobblemon.com/index.php/Deep_Sea_Scale)
 - [Dent Océan](https://wiki.cobblemon.com/index.php/Deep_Sea_Tooth)
 - [Nœud Destin](https://wiki.cobblemon.com/index.php/Destiny_Knot)
-- [Croc de Dragon](https://wiki.cobblemon.com/index.php/Dragon_Fang)
 - [Bouton Fuite](https://wiki.cobblemon.com/index.php/Eject_Button)
 - [Sac Fuite](https://wiki.cobblemon.com/index.php/Eject_Pack)
 - [Pierre Stase](https://wiki.cobblemon.com/index.php/Everstone)
@@ -1540,6 +1611,9 @@ Pour plus d'informations sur les objets dans Cobblemon, vous pouvez consulter le
 - [Parapluie Solide](https://wiki.cobblemon.com/index.php/Utility_Umbrella)
 - [Vulné-Assurance](https://wiki.cobblemon.com/index.php/Weakness_Policy)
 - [Herbe Blanche](https://wiki.cobblemon.com/index.php/White_Herb)
-- [Lentille Évasée](https://wiki.cobblemon.com/index.php/Wide_Lens)
-- [Lunettes de Sage](https://wiki.cobblemon.com/index.php/Wise_Glasses)
+- [Loupe](https://wiki.cobblemon.com/index.php/Wide_Lens)
+- [Lunettes Sages](https://wiki.cobblemon.com/index.php/Wise_Glasses)
 - [Lentille Zoom](https://wiki.cobblemon.com/index.php/Zoom_Lens)
+- [Ceinture Noire](https://wiki.cobblemon.com/index.php/Black_Belt)
+- [Bâton de Charbon](https://wiki.cobblemon.com/index.php/Charcoal_Stick)
+- [Croc de Dragon](https://wiki.cobblemon.com/index.php/Dragon_Fang)
